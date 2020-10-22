@@ -1,540 +1,540 @@
-"","state","Dem_Pct","Rep_Pct","sample_size","pollster","poll_id","question_id","url"
-"1","Alabama",35,52,609,"Morning Consult",67879,127093,"https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/"
-"2","Alabama",34,52,658,"Morning Consult",69643,129836,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"3","Alabama",42.1,54,1072,"Auburn University at Montgomery",70580,131963,"https://www.aum.edu/wp-content/uploads/2020/10/aum_poll_10042020_alabama1.pdf"
-"4","Alabama",48,47,801,"FM3 Research",71235,133379,"https://dougjones.com/sites/default/files/media_uploads/220-6003C%20Alabama%20Senate%20Survey%20Memo-F.pdf"
-"5","Alabama",40,55,504,"Moore Information",71434,133775,"https://www.al.com/news/2020/10/tuberville-campaign-tells-potential-donors-hes-fallen-behind-jones.html"
-"6","Alaska",43,43,638,"Public Policy Polling",68266,127881,"https://drive.google.com/file/d/1ir0a6eAHT04YSudrwp2AT-SC71wvmCqe/view"
-"7","Alaska",45,46,602,"Harstad Strategic Research Inc.",70015,130423,"https://twitter.com/Nat_Herz/status/1310661243410104320/photo/1"
-"8","Alaska",47,46,600,"Patinkin Research Strategies",71298,133506,"https://twitter.com/Nat_Herz/status/1317942531120898048?s=20"
-"9","Alaska",44,48,676,"Alaska Survey Research",70622,132053,"https://twitter.com/IvanMoore1/status/1313647136257372161?s=20"
-"10","Alaska",46,46,600,"Harstad Strategic Research Inc.",71163,133227,"https://midnightsunak.com/2020/10/15/gross-gains-slight-lead-on-sullivan-in-latest-poll/"
-"11","Alaska",47,46,606,"Harstad Strategic Research Inc.",71162,133226,"https://drive.google.com/file/d/19_wiB30w2j7j9i0dSIBT4oZYAnr0oiGo/view"
-"12","Alaska",37,45,423,"Siena College/The New York Times Upshot",71173,133252,"https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf"
-"13","Arizona",49,43,428,"Change Research",68011,127368,"https://www.changeresearch.com/post/states-of-play-battleground-wave-11"
-"14","Arizona",51.81,41.21,661,"Emerson College",68005,127356,"https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions"
-"15","Arizona",53,34,856,"Redfield & Wilton Strategies",68153,127661,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/"
-"16","Arizona",55,38,858,"Fox News/Beacon Research/Shaw & Co. Research",68338,128022,"https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Arizona.pdf"
-"17","Arizona",56,39,772,"Fox News/Beacon Research/Shaw & Co. Research",68338,128023,"https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Arizona.pdf"
-"18","Arizona",53,38,830,"Redfield & Wilton Strategies",68520,128373,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/"
-"19","Arizona",51,45,470,"Change Research",68533,128359,"https://changeresearch.com/post/states-of-play-battleground-wave-13/"
-"20","Arizona",48,45,1600,"Benenson Strategy Group/GS Strategy Group",68584,128419,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-arizona-topline.doi.10.26419-2Fres.00401.002.pdf"
-"21","Arizona",52,42,600,"OH Predictive Insights",69429,129406,"https://f.hubspotusercontent40.net/hubfs/7453540/200908%20AZPOP/AZPOP%20Crosstabs%20-%20Senate.pdf"
-"22","Arizona",48,43,684,"Gravis Marketing",69420,129281,"https://gravismarketing.com/wp-content/uploads/2020/09/Arizona-September-11-2020.pdf"
-"23","Arizona",49,42,1102,"YouGov",69423,129305,"https://drive.google.com/file/d/1hr0WLAZhvP2k_BOL7sRwEifQgu2JAOTU/view"
-"24","Arizona",44,36,1298,"Kaiser Family Foundation",69500,129470,"https://www.kff.org/other/report/sun-belt-voices-project/"
-"25","Arizona",50,44,420,"Monmouth University",69513,129490,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/"
-"26","Arizona",50,46,420,"Monmouth University",69513,129491,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/"
-"27","Arizona",49,48,420,"Monmouth University",69513,129492,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/"
-"28","Arizona",50,42,653,"Siena College/The New York Times Upshot",69523,129510,"https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf"
-"29","Arizona",48,46,800,"Fabrizio, Lee & Associates",69634,129826,"https://www.politico.com/f/?id=00000174-b2e8-d59c-a174-f6fc6db30000"
-"30","Arizona",52,35,855,"Redfield & Wilton Strategies",69542,129567,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/"
-"31","Arizona",50,41,565,"Ipsos",69698,129957,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf"
-"32","Arizona",48.15,40.9,900,"Morning Consult",70764,132383,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"33","Arizona",55,43,400,"Garin-Hart-Yang Research Group",69981,130331,"https://www.hrc.org/parts/HRC-Poll-917-202020.pdf"
-"34","Arizona",51,43,262,"Change Research",69681,129909,"https://changeresearch.com/post/states-of-play-battleground-wave-14/"
-"35","Arizona",50,45,701,"ABC News/The Washington Post",69675,129895,"https://www.washingtonpost.com/context/sept-15-20-2020-florida-and-arizona-washington-post-abc-news-polls/48276797-3b93-4ab2-835b-ed2fcdc8581e/"
-"36","Arizona",49,48,579,"ABC News/The Washington Post",69675,129896,"https://www.washingtonpost.com/context/sept-15-20-2020-florida-and-arizona-washington-post-abc-news-polls/48276797-3b93-4ab2-835b-ed2fcdc8581e/"
-"37","Arizona",49,40,907,"Morning Consult",69639,129831,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"38","Arizona",47,38,481,"Data for Progress",69973,130314,"https://filesforprogress.org/memos/student-debt-project-electoral.pdf"
-"39","Arizona",48,44,500,"Susquehanna Polling & Research Inc.",70042,130463,"https://amgreatness.com/2020/09/29/trump-and-biden-tied-in-new-arizona-poll/"
-"40","Arizona",51,42,808,"Data for Progress",70079,130562,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_AZ_Senate_week2.pdf"
-"41","Arizona",49,40,500,"Suffolk University",70119,130643,"https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_2_2020_tables_pdftxt.pdf?la=en&hash=092D976850EB75E3AD343E1F122E02FA8C57CEFC"
-"42","Arizona",51,38,1048,"Morning Consult",70587,131971,"https://morningconsult.com/2020/10/05/arizona-senate-polling-martha-mcsally-mark-kelly/"
-"43","Arizona",51,41,1045,"Targoz Market Research",71159,133221,"https://www.pollsmartmr.com/latest-polls-1/trump-kelly-lead-in-arizona"
-"44","Arizona",50,39,655,"Siena College/The New York Times Upshot",70565,131639,"https://int.nyt.com/data/documenttools/az100120-crosstabs/a77605c32cd8f31e/full.pdf"
-"45","Arizona",51,43,296,"Change Research",70604,132074,"https://changeresearch.com/post/states-of-play-battleground-wave-15/"
-"46","Arizona",49.2,43.7,550,"Data Orbital",70639,132091,"https://www.dataorbital.com/the-blog/breaking-in-az-us-senate-race-tightens-and-president-trump-down-45"
-"47","Arizona",50,43.5,400,"HighGround Inc.",70603,132096,"https://projects.fivethirtyeight.com/polls/20201007_AZ_HighGround.pdf"
-"48","Arizona",47,42,600,"Latino Decisions",70681,132199,"http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf"
-"49","Arizona",51,41,633,"Ipsos",70651,132118,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w2_10_07_2020.pdf"
-"50","Arizona",50,45,608,"OH Predictive Insights",71067,133023,"https://f.hubspotusercontent40.net/hubfs/7453540/201005_AZPOP/PR_Arizona%20Public%20Opinion%20Pulse%20Toplines%20and%20Crosstabs%20(1).pdf?utm_medium=email&_hsmi=97443604&_hsenc=p2ANqtz-8YKdQGdcjhrShEJfsBc7JTFdlklT1RodoeG-nMmCGHWRDUFwNlhUCpC0Qyjh4DQGGGyPyUZaS7ikUHptXoT6cVk8q7kfO-4hRg1rAyzImJPZbVBeA&utm_content=97443604&utm_source=hs_email"
-"51","Arizona",47.3,45.4,1045,"Trafalgar Group",70728,132315,"https://drive.google.com/file/d/1Wi8S4iVv3og1J-ril-RG3uZYlDHTz8gx/view"
-"52","Arizona",49,41,1144,"Morning Consult",70752,132376,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"53","Arizona",52,42,502,"Monmouth University",71090,133068,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/"
-"54","Arizona",52,42,502,"Monmouth University",71090,133069,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/"
-"55","Arizona",51,45,502,"Monmouth University",71090,133070,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/"
-"56","Arizona",52,41,667,"Ipsos",71007,132885,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w3_10_14_2020_1.pdf"
-"57","Arizona",52,41,1065,"YouGov",71295,133502,"https://drive.google.com/file/d/1j9uJnxfT1x8spYhW2QmAq6OkSMd06wJG/view"
-"58","Arizona",48.1,41.9,550,"Data Orbital",71451,133818,"https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day"
-"59","Arkansas",NA,49,600,"American Research Group",70727,132314,"https://237995-729345-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/10/Arkansas-Senate-Frequency-Counts.pdf"
-"60","Arkansas",NA,62.5,647,"Hendrix College",71160,133784,"https://talkbusiness.net/2020/10/trump-cotton-on-cruise-control-for-re-election/"
-"61","Colorado",48,42,616,"Morning Consult",67686,126762,"https://morningconsult.com/2020/07/28/senate-presidential-polling-political-intelligence/"
-"62","Colorado",51,42,731,"Public Policy Polling",68200,127736,"https://giffords.org/wp-content/uploads/2020/08/ColoradoResults1.pdf"
-"63","Colorado",48,39,638,"Morning Consult",68291,128178,"https://morningconsult.com/2020/09/03/majority-makers-colorado-senate-hickenlooper-gardner/"
-"64","Colorado",52,42,800,"Global Strategy Group",69433,129321,"https://www.globalstrategygroup.com/wp-content/uploads/2020/09/CO-Mountaineer-Q3-Survey-Topline-F09.03.20.pdf"
-"65","Colorado",51,46,800,"Fabrizio Ward/Hart Research Associates",68579,128415,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-colorado-annotated-questionnaire.doi.10.26419-2Fres.00401.014.pdf"
-"66","Colorado",45.82,43.61,599,"Morning Consult",70765,132384,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"67","Colorado",49,42,613,"Morning Consult",69645,129838,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"68","Colorado",48,39,1021,"SurveyUSA",70691,132227,"https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec"
-"69","Colorado",48,40,800,"YouGov",71368,133644,"https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf"
-"70","Colorado",50,40,837,"Morning Consult",70753,132377,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"71","Colorado",51,41,519,"Keating Research/OnSight Public Affairs/Melanson",71098,133094,"https://twitter.com/blairmiller/status/1316782776922722304"
-"72","Colorado",53,42,1013,"Civiqs",71069,133035,"https://civiqs.com/documents/Civiqs_DailyKos_CO_banner_book_2020_10_mk0d15.pdf"
-"73","Colorado",53,39,502,"RBI Strategies & Research",71352,133614,"http://www.rbistrategies.com/wp-content/uploads/2020/10/Statewide-Polling-Memo-October-2020.pdf"
-"74","Delaware",57,27,847,"University of Delaware",70561,131633,"https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/"
-"75","Georgia",44,44,530,"Public Policy Polling",68109,127572,"https://s3.amazonaws.com/s3.moveon.org/images/GeorgiaResults1.pdf"
-"76","Georgia",40.42,46.63,1616,"Harris Insights & Analytics",69469,129388,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"77","Georgia",5.8,21.04,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"78","Georgia",13.19,21.04,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"79","Georgia",15.94,21.04,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"80","Georgia",2.09,21.04,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"81","Georgia",5.8,26.05,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"82","Georgia",13.19,26.05,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"83","Georgia",15.94,26.05,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"84","Georgia",2.09,26.05,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"85","Georgia",5.8,3.53,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"86","Georgia",13.19,3.53,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"87","Georgia",15.94,3.53,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"88","Georgia",2.09,3.53,1616,"Harris Insights & Analytics",69469,129389,"https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx"
-"89","Georgia",48,47,800,"Fabrizio Ward/Hart Research Associates",68583,128417,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"90","Georgia",7,20,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"91","Georgia",10,20,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"92","Georgia",19,20,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"93","Georgia",7,24,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"94","Georgia",10,24,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"95","Georgia",19,24,800,"Fabrizio Ward/Hart Research Associates",68583,128418,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf"
-"96","Georgia",49,48,600,"GBAO",69575,129947,"https://twitter.com/bluestein/status/1308820926595825675"
-"97","Georgia",43,43,800,"Redfield & Wilton Strategies",69566,129611,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"98","Georgia",5,19,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"99","Georgia",11,19,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"100","Georgia",25,19,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"101","Georgia",15,19,800,"Redfield & Wilton Strategies",69566,129612,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"102","Georgia",21,19,800,"Redfield & Wilton Strategies",69566,129612,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"103","Georgia",5,29,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"104","Georgia",11,29,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"105","Georgia",25,29,600,"GBAO",69575,129658,"https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf"
-"106","Georgia",15,26,800,"Redfield & Wilton Strategies",69566,129612,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"107","Georgia",21,26,800,"Redfield & Wilton Strategies",69566,129612,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"108","Georgia",42.63,43.15,1402,"Morning Consult",70766,132385,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"109","Georgia",41,43,800,"Data for Progress",69937,130236,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-A_Week1_Senate_toplines.pdf"
-"110","Georgia",44,44,800,"Data for Progress",69937,130237,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-A_Week1_Senate_toplines.pdf"
-"111","Georgia",14,22,800,"Data for Progress",69937,130238,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf"
-"112","Georgia",26,22,800,"Data for Progress",69937,130238,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf"
-"113","Georgia",14,21,800,"Data for Progress",69937,130238,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf"
-"114","Georgia",26,21,800,"Data for Progress",69937,130238,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf"
-"115","Georgia",44,43,1406,"Morning Consult",69644,129837,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"116","Georgia",44.6,47,1150,"University of Georgia",69646,129840,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"117","Georgia",4.6,20.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"118","Georgia",10.6,20.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"119","Georgia",20.3,20.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"120","Georgia",4.6,23.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"121","Georgia",10.6,23.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"122","Georgia",20.3,23.5,1150,"University of Georgia",69646,129841,"https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/"
-"123","Georgia",42,48,402,"Monmouth University",69690,129933,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"124","Georgia",43,48,402,"Monmouth University",69690,129934,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"125","Georgia",42,50,402,"Monmouth University",69690,129935,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"126","Georgia",38,41,523,"Siena College/The New York Times Upshot",69709,129983,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"127","Georgia",4,22,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"128","Georgia",11,22,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"129","Georgia",21,22,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"130","Georgia",3,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"131","Georgia",11,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"132","Georgia",23,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"133","Georgia",2,24,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"134","Georgia",9,24,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"135","Georgia",25,24,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"136","Georgia",4,19,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"137","Georgia",7,19,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"138","Georgia",19,19,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"139","Georgia",4,23,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"140","Georgia",11,23,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"141","Georgia",21,23,402,"Monmouth University",69690,129936,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"142","Georgia",3,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"143","Georgia",11,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"144","Georgia",23,23,402,"Monmouth University",69690,129937,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"145","Georgia",2,23,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"146","Georgia",9,23,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"147","Georgia",25,23,402,"Monmouth University",69690,129938,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/"
-"148","Georgia",4,23,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"149","Georgia",7,23,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"150","Georgia",19,23,523,"Siena College/The New York Times Upshot",69709,129984,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"151","Georgia",42,47,1164,"YouGov",69991,130362,"https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/"
-"152","Georgia",47,42,789,"Redfield & Wilton Strategies",70137,130672,"https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/"
-"153","Georgia",16,16,789,"Redfield & Wilton Strategies",70137,130674,"https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/"
-"154","Georgia",26,16,789,"Redfield & Wilton Strategies",70137,130674,"https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/"
-"155","Georgia",16,25,789,"Redfield & Wilton Strategies",70137,130674,"https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/"
-"156","Georgia",26,25,789,"Redfield & Wilton Strategies",70137,130674,"https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/"
-"157","Georgia",46,49,400,"Garin-Hart-Yang Research Group",70131,130669,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"158","Georgia",49,48,1125,"Quinnipiac University",70047,130478,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"159","Georgia",3,21,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"160","Georgia",8,21,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"161","Georgia",28,21,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"162","Georgia",4,22,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"163","Georgia",9,22,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"164","Georgia",31,22,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"165","Georgia",3,28,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"166","Georgia",8,28,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"167","Georgia",28,28,400,"Garin-Hart-Yang Research Group",70131,130675,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"168","Georgia",4,23,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"169","Georgia",9,23,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"170","Georgia",31,23,1125,"Quinnipiac University",70047,130479,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3676"
-"171","Georgia",48,46,969,"Civiqs",70049,130484,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"172","Georgia",2,25,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"173","Georgia",5,25,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"174","Georgia",38,25,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"175","Georgia",38,44,969,"Civiqs",70049,130488,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"176","Georgia",49,44,969,"Civiqs",70049,130489,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"177","Georgia",2,21,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"178","Georgia",5,21,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"179","Georgia",38,21,969,"Civiqs",70049,130485,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"180","Georgia",39,39,969,"Civiqs",70049,130486,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"181","Georgia",49,39,969,"Civiqs",70049,130487,"https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf"
-"182","Georgia",41.4,48.9,1106,"University of Georgia",70695,132238,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"183","Georgia",3.6,21.2,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"184","Georgia",3.4,21.2,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"185","Georgia",27.7,21.2,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"186","Georgia",3.6,21.8,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"187","Georgia",3.4,21.8,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"188","Georgia",27.7,21.8,1106,"University of Georgia",70695,132239,"https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf"
-"189","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"190","Georgia",0.3,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"191","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"192","Georgia",0.2,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"193","Georgia",3.1,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"194","Georgia",36.2,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"195","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"196","Georgia",0.5,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"197","Georgia",45.5,47,600,"Landmark Communications",70712,132267,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"198","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"199","Georgia",0.3,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"200","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"201","Georgia",0.2,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"202","Georgia",3.1,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"203","Georgia",36.2,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"204","Georgia",0,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"205","Georgia",0.5,0,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"206","Georgia",0,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"207","Georgia",0.3,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"208","Georgia",0,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"209","Georgia",0.2,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"210","Georgia",3.1,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"211","Georgia",36.2,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"212","Georgia",0,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"213","Georgia",0.5,23.3,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"214","Georgia",0,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"215","Georgia",0.3,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"216","Georgia",0,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"217","Georgia",0.2,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"218","Georgia",3.1,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"219","Georgia",36.2,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"220","Georgia",0,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"221","Georgia",0.5,2.7,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"222","Georgia",0,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"223","Georgia",0.3,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"224","Georgia",0,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"225","Georgia",0.2,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"226","Georgia",3.1,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"227","Georgia",36.2,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"228","Georgia",0,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"229","Georgia",0.5,25.8,600,"Landmark Communications",70712,132268,"https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf"
-"230","Georgia",44,43,528,"Public Policy Polling",70715,132278,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"231","Georgia",0,22,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"232","Georgia",3,22,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"233","Georgia",41,22,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"234","Georgia",0,24,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"235","Georgia",3,24,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"236","Georgia",41,24,528,"Public Policy Polling",70715,132279,"https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/"
-"237","Georgia",44,43,782,"Data for Progress",71010,132894,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ga_week_4_toplines.pdf"
-"238","Georgia",42,46,1837,"Morning Consult",70755,132378,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"239","Georgia",1,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"240","Georgia",10,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"241","Georgia",30,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"242","Georgia",1,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"243","Georgia",10,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"244","Georgia",30,22,782,"Data for Progress",71010,132895,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"245","Georgia",44,40,782,"Data for Progress",71010,132897,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"246","Georgia",41,42,782,"Data for Progress",71010,132898,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf"
-"247","Georgia",43,46,677,"SurveyUSA",70982,132827,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"248","Georgia",51,45,1160,"Quinnipiac University",71000,132868,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"249","Georgia",3,20,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"250","Georgia",8,20,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"251","Georgia",30,20,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"252","Georgia",2,22,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"253","Georgia",5,22,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"254","Georgia",41,22,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"255","Georgia",54,42,1160,"Quinnipiac University",71000,132880,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"256","Georgia",3,26,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"257","Georgia",8,26,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"258","Georgia",30,26,677,"SurveyUSA",70982,132828,"http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6"
-"259","Georgia",2,20,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"260","Georgia",5,20,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"261","Georgia",41,20,1160,"Quinnipiac University",71000,132869,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"262","Georgia",52,44,1160,"Quinnipiac University",71000,132879,"https://poll.qu.edu/georgia/release-detail?ReleaseID=3679"
-"263","Georgia",44.5,46.1,506,"Emerson College",71435,133778,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"264","Georgia",1.8,26.5,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"265","Georgia",12.1,26.5,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"266","Georgia",26.5,26.5,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"267","Georgia",47.9,46.5,506,"Emerson College",71435,133780,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"268","Georgia",1.8,19.9,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"269","Georgia",12.1,19.9,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"270","Georgia",26.5,19.9,506,"Emerson College",71435,133779,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"271","Georgia",46.6,41.7,506,"Emerson College",71435,133781,"https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races"
-"272","Idaho",27.72,53.36,600,"Spry Strategies",68502,128247,"http://womensliberationfront.org/wp-content/uploads/2020/09/Statewide_Idaho_8.25.20-Tables_Only-Tables_Only.pdf"
-"273","Iowa",45,43,963,"Public Policy Polling",66740,124512,"https://secure.emilyslist.org/page/-/IowaResults.pdf"
-"274","Iowa",48,45,865,"Civiqs",66767,124570,"https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_06_ony3r9.pdf"
-"275","Iowa",46,43,674,"Selzer & Co.",66796,124636,"https://assets.documentcloud.org/documents/6953460/2216-Methodology-062120.pdf"
-"276","Iowa",49,47,800,"GQR Research (GQRR)",67003,125194,"https://endcitizensunited.org/wp-content/uploads/2020/07/ECU-IA-Senate-Memo.pdf"
-"277","Iowa",44.63,42.84,701,"Spry Strategies",67623,126534,"https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Iowa_.pdf"
-"278","Iowa",40,36,500,"RMG Research",67954,127238,"https://www.termlimits.com/ernst/"
-"279","Iowa",45,43,1101,"Data for Progress",67935,127195,"http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_Iowa_8_20_xtabs.pdf"
-"280","Iowa",45,48,401,"Monmouth University",67920,127157,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/"
-"281","Iowa",47,48,401,"Monmouth University",67920,127158,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/"
-"282","Iowa",47,48,401,"Monmouth University",67920,127159,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/"
-"283","Iowa",48,45,729,"Public Policy Polling",68110,127573,"https://s3.amazonaws.com/s3.moveon.org/images/IowaResults1.pdf"
-"284","Iowa",45,50,800,"Fabrizio Ward/Hart Research Associates",68585,128420,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-iowa-annotated-questionnaire.doi.10.26419-2Fres.00401.018.pdf"
-"285","Iowa",45,42,658,"Selzer & Co.",69560,129593,"https://assets.documentcloud.org/documents/7213769/Senate-Story-2224-Iowa-Poll-Sep-2020-Methodology.pdf"
-"286","Iowa",47,47,402,"Monmouth University",69943,130249,"https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/"
-"287","Iowa",49,46,402,"Monmouth University",69943,130250,"https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/"
-"288","Iowa",48,47,402,"Monmouth University",69943,130251,"https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/"
-"289","Iowa",42,40,501,"Siena College/The New York Times Upshot",69710,129985,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"290","Iowa",51,39,780,"RABA Research",70073,130605,"https://who13.com/news/theresa-greenfield-leads-joni-ernst-by-12-points-in-new-poll-of-iowa-voters/"
-"291","Iowa",48,48,400,"Garin-Hart-Yang Research Group",70132,130670,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"292","Iowa",46,45,743,"Data for Progress",70080,130563,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_IA_Senate_week2.pdf"
-"293","Iowa",44,42,743,"Data for Progress",70080,130564,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_IA_Senate_week2.pdf"
-"294","Iowa",50,45,1205,"Quinnipiac University",70648,132110,"https://poll.qu.edu/florida/release-detail?ReleaseID=3678"
-"295","Iowa",49,46,756,"Civiqs",70629,132068,"https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_10_u43b2l.pdf"
-"296","Iowa",47,43,1022,"YouGov",70726,132312,"https://drive.google.com/file/d/1j1ecxNthrVLwbSmV5eSUGdeuEilTgKkd/view"
-"297","Iowa",47,43,822,"Data for Progress",71083,133055,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ia_week_4_toplines.pdf"
-"298","Kansas",42,43,864,"Public Policy Polling",67956,127248,"https://www.publicpolicypolling.com/wp-content/uploads/2020/08/KansasMemoResultsAug20.pdf"
-"299","Kansas",44,46,1202,"SurveyUSA",68032,127406,"http://www.surveyusa.com/client/PollReport.aspx?g=b7efcf1a-9519-4b36-95f6-5a05b8cc7f6d"
-"300","Kansas",39,43,794,"co/efficient",70055,130507,"https://www.kansascity.com/news/politics-government/article246101020.html"
-"301","Kansas",40,40,883,"Data for Progress",69938,130239,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KS_Week1_Senate_toplines.pdf"
-"302","Kansas",42,42,883,"Data for Progress",69938,130240,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KS_Week1_Senate_toplines.pdf"
-"303","Kansas",45,43,600,"GBAO",70056,130508,"https://www.kansascity.com/news/politics-government/article246101020.html"
-"304","Kansas",43,50,677,"Civiqs",70072,130537,"https://civiqs.com/documents/Civiqs_DailyKos_KS_banner_book_2020_09_dw29u7.pdf"
-"305","Kansas",45.39,41.87,3104,"VCreek/AMG",70686,132205,"https://projects.fivethirtyeight.com/polls/20201008_KS.pdf"
-"306","Kentucky",41,45,800,"Garin-Hart-Yang Research Group",67116,125422,"https://amymcgrath.com/wp-content/uploads/2020/07/Polling-Memo-07-16.pdf"
-"307","Kentucky",33.14,55.29,700,"Spry Strategies",67624,126535,"https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Kentucky.pdf"
-"308","Kentucky",46,49,3020,"Bluegrass Voters Coalition",67928,127179,"https://ditchmitchfund.com/wp-content/uploads/2020/08/July-2020-Bluegrass-Kentucky-Poll-Memo.pdf"
-"309","Kentucky",36,53,793,"Morning Consult",67880,127094,"https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/"
-"310","Kentucky",44,49,909,"Quinnipiac University",67947,127226,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670"
-"311","Kentucky",41,53,1164,"Quinnipiac University",69487,129448,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673"
-"312","Kentucky",39,46,807,"Data for Progress",69939,130241,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KY_Week1_Senate_toplines.pdf"
-"313","Kentucky",41,48,807,"Data for Progress",69939,130242,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KY_Week1_Senate_toplines.pdf"
-"314","Kentucky",37,52,746,"Morning Consult",69640,129833,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"315","Maine",47,42,561,"Public Policy Polling",67653,126608,"https://drive.google.com/file/d/1gfnY_jB5oYBFq7u9tPWolKsUzrpd4XAj/view"
-"316","Maine",44,39,888,"Colby College",67790,126877,"http://www.colby.edu/government/2020-polling/"
-"317","Maine",48,41,500,"RMG Research",67978,127291,"https://www.termlimits.com/maine-poll/"
-"318","Maine",48,45,866,"Data for Progress",67936,127196,"http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_Maine_8_20_xtabs.pdf"
-"319","Maine",47,43,807,"Quinnipiac University",67948,127227,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670"
-"320","Maine",43,35,500,"Critical Insights",68001,127346,"https://drive.google.com/file/d/1QvLIr-Xi1OsOA_Ulz6jtWJnCZSN-1JyH/view"
-"321","Maine",43,38,453,"Critical Insights",68001,127351,"https://projects.fivethirtyeight.com/polls/20200812_ME.pdf"
-"322","Maine",49,44,571,"Public Policy Polling",68108,127571,"https://s3.amazonaws.com/s3.moveon.org/images/MaineResults1.pdf"
-"323","Maine",48,47,800,"Fabrizio Ward/Hart Research Associates",68578,128414,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-maine-annotated-questionnaire.doi.10.26419-2Fres.00401.020.pdf"
-"324","Maine",44,43,800,"Fabrizio Ward/Hart Research Associates",68578,128582,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-maine-annotated-questionnaire.doi.10.26419-2Fres.00401.020.pdf"
-"325","Maine",48.95,40.82,600,"Citizen Data",69410,129267,"https://projects.fivethirtyeight.com/polls/20200911_ME.pdf"
-"326","Maine",54,42,1183,"Quinnipiac University",69488,129449,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673"
-"327","Maine",49,44,663,"Siena College/The New York Times Upshot",69524,129511,"https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf"
-"328","Maine",44,40,663,"Siena College/The New York Times Upshot",69524,129534,"https://twitter.com/Nate_Cohn/status/1306901222843187200"
-"329","Maine",46.2,41,500,"Suffolk University",69587,129676,"https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf"
-"330","Maine",49.2,42.2,500,"Suffolk University",69587,129677,"https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf"
-"331","Maine",42,42,500,"Moore Information",69705,129974,"https://subscriber.politicopro.com/article/2020/09/nrsc-internal-poll-shows-dead-heat-in-maine-3984119"
-"332","Maine",45,41,847,"Colby College",69967,130302,"http://www.colby.edu/government/2020-polling/"
-"333","Maine",46,41,718,"Data for Progress",70081,130565,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_ME_Senate_Week2.pdf"
-"334","Maine",50,42,718,"Data for Progress",70081,130566,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_ME_Senate_Week2.pdf"
-"335","Maine",43,42,500,"Critical Insights",70610,132025,"https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view"
-"336","Maine",44,43,466,"Critical Insights",70610,132026,"https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view"
-"337","Maine",46.9,39.8,600,"Pan Atlantic Research",71085,133060,"https://drive.google.com/file/d/1sI71fH_b6IKecmMtqlACiYc8ODAZ6R1P/view"
-"338","Massachusetts",50,40,907,"Remington Research Group",70107,130603,"https://projects.fivethirtyeight.com/polls/20201001_MA_Remington.pdf"
-"339","Michigan",48,45,413,"Change Research",68013,127369,"https://www.changeresearch.com/post/states-of-play-battleground-wave-11"
-"340","Michigan",48.7,44.1,602,"Tarrance Group",68101,127564,"https://www.politico.com/f/?id=00000173-fdf9-d721-a57f-fffb38060000"
-"341","Michigan",53.48,38.98,600,"Hodas & Associates",68483,128207,"https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/448/attachments/original/1599254878/Banner_August2020_08-17-2020.pdf"
-"342","Michigan",48,39,812,"Redfield & Wilton Strategies",68155,127662,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/"
-"343","Michigan",50,45,809,"Change Research",68206,127747,"https://changeresearch.com/post/states-of-play-battleground-wave-12/"
-"344","Michigan",46.6,48.1,1048,"Trafalgar Group",68238,127827,"https://drive.google.com/file/d/12_IApGhCQY27OukwWXGnk0MFgfPctmhQ/view"
-"345","Michigan",47,39,897,"Public Policy Polling",68306,127931,"https://progressmichigan.org/wp-content/uploads/2020/09/MichiganResults_Sept.pdf"
-"346","Michigan",47.56,40.12,1000,"Rasmussen Reports/Pulse Opinion Research",68586,129233,"https://www.rasmussenreports.com/public_content/politics/elections/election_2020/michigan_senate_peters_d_48_james_r_40"
-"347","Michigan",47,46,569,"Tarrance Group",68477,128195,"https://projects.fivethirtyeight.com/polls/20200904_MI.pdf"
-"348","Michigan",43.7,40.6,600,"Glengariff Group",68527,128299,"0	0	0	0	0	0"
-"349","Michigan",50,38,967,"Redfield & Wilton Strategies",68522,128374,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/"
-"350","Michigan",50,46,876,"Change Research",68535,128360,"https://changeresearch.com/post/states-of-play-battleground-wave-13/"
-"351","Michigan",45,41,1600,"Benenson Strategy Group/GS Strategy Group",68582,128416,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-michigan-topline.doi.10.26419-2Fres.00401.006.pdf"
-"352","Michigan",51,35,930,"Redfield & Wilton Strategies",69544,129568,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/"
-"353","Michigan",45,41,600,"EPIC-MRA",69529,129531,"https://www.woodtv.com/wp-content/uploads/sites/51/2020/09/September-Statewide-EPIC-MRA-poll-091820.pdf"
-"354","Michigan",49,43,637,"Ipsos",69661,129868,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_michigan_state_poll_w1_09_22_2020.pdf"
-"355","Michigan",47.6,39.7,1451,"Morning Consult",70767,132386,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"356","Michigan",50,42,400,"Garin-Hart-Yang Research Group",69983,130332,"https://www.hrc.org/parts/HRC-Poll-917-202020.pdf"
-"357","Michigan",42,40,600,"Marketing Resource Group (MRG)",69648,129848,"https://www.mrgmi.com/2020/09/22/ballot-test-biden-increases-lead-on-trump-but-late-deciding-voters-could-again-play-a-significant-role/"
-"358","Michigan",47,42,455,"Data for Progress",69940,130243,"https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_MI_Week1_Senate_toplines.pdf"
-"359","Michigan",50,44,568,"Change Research",69683,129910,"https://changeresearch.com/post/states-of-play-battleground-wave-14/"
-"360","Michigan",47,40,1376,"Morning Consult",69641,129834,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"361","Michigan",45.6,41.4,1001,"Baldwin Wallace University",69701,129964,"https://www.bw.edu/Assets/stories/2020/fall/2020_glp_3%20final-1.pdf"
-"362","Michigan",49,43,1082,"Marist College",69995,130359,"http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_MI-Adults-Registered-Voters_NOS-and-Tables_202009251227.pdf"
-"363","Michigan",49,44,799,"Marist College",69995,130360,"http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_MI-Likely-Voters_NOS-and-Tables_202009251227.pdf"
-"364","Michigan",47.2,47.3,1047,"Trafalgar Group",70006,130404,"https://drive.google.com/file/d/1TMFBeZQNL0acengHKAZru4D78kvB38e2/view"
-"365","Michigan",48.1,46.7,1042,"Trafalgar Group",70057,130580,"https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/888/attachments/original/1601501137/MI_SENATE.pdf"
-"366","Michigan",48,41,746,"Public Policy Polling",70129,130658,"https://progressmichigan.org/wp-content/uploads/2020/10/MichiganResults-October.pdf"
-"367","Michigan",44.9,39.5,600,"Glengariff Group",70589,132036,"https://www.scribd.com/document/478937467/Michigan-Statewide-Post-Debate-Survey-2020"
-"368","Michigan",51,43,676,"Change Research",70606,132075,"https://changeresearch.com/post/states-of-play-battleground-wave-15/"
-"369","Michigan",48,46,601,"Tarrance Group",70632,132071,"https://www.politico.com/f/?id=00000175-00d4-d951-a77f-71dcc6d40000"
-"370","Michigan",50,43,709,"Ipsos",70615,132033,"https://www.reuters.com/article/idUSKBN26R3CW"
-"371","Michigan",50.7,41.1,716,"Emerson College",70692,132228,"https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races"
-"372","Michigan",48,42.1,1134,"Baldwin Wallace University",70719,132292,"https://www.bw.edu/Assets/community-research-institute/10-2020-bw-gl-poll-4-final.pdf"
-"373","Michigan",47,44,1181,"YouGov",70724,132311,"https://drive.google.com/file/d/1ONr-7DegyuvciqdCL7TigWCIvJ1LbSbD/view"
-"374","Michigan",43,42,614,"Siena College/The New York Times Upshot",70737,132336,"https://int.nyt.com/data/documenttools/miwi1020-crosstabs/b0a09cd1cd0048df/full.pdf"
-"375","Michigan",49,40,1710,"Morning Consult",70756,132379,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"376","Michigan",45,39,600,"EPIC-MRA",70979,133019,"https://www.woodtv.com/wp-content/uploads/sites/51/2020/10/2020-OCTOBER-FIRST-MEDIA-THURSDAY-FREQUENCY.pdf"
-"377","Michigan",52,44,620,"Ipsos",70785,132436,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf"
-"378","Michigan",50,43,1289,"Harris Insights & Analytics",71178,133262,"https://thehill.com/homenews/campaign/521415-biden-holds-9-point-lead-over-in-michigan-poll"
-"379","Michigan",46.6,48,1018,"Trafalgar Group",71238,133386,"https://www.thetrafalgargroup.org/news/mi-sen-1020/"
-"380","Michigan",49,43,900,"Mitchell Research & Communications",71367,133645,"https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf"
-"381","Minnesota",43,41,501,"Harper Polling",68460,128149,"https://lewisformn.com/wp-content/uploads/2020/09/September-2-MN-Senate-Harper-Polling.pdf"
-"382","Minnesota",49,41,877,"Public Policy Polling",68481,128201,"https://www.publicpolicypolling.com/wp-content/uploads/2020/09/MinnesotaPoll9420.pdf"
-"383","Minnesota",46.6,35.7,553,"SurveyUSA",68565,128383,"http://www.surveyusa.com/client/PollReport.aspx?g=cc902191-9d67-498a-aa9c-d59233e2c85b"
-"384","Minnesota",49,40,814,"Siena College/The New York Times Upshot",69416,129279,"https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf"
-"385","Minnesota",47,40,1031,"YouGov",69424,129306,"https://drive.google.com/file/d/1HgXF5rfA2yev5hD6mi4sCVgTmof3XPJ4/view"
-"386","Minnesota",51,36,718,"Redfield & Wilton Strategies",69567,129613,"https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/"
-"387","Minnesota",49,41,800,"Mason-Dixon Polling & Strategy",69988,130415,"https://www.startribune.com/minnesota-poll-us-senate-tina-smith-jason-lewis-supreme-court-scotus-trump-ruth-bader-ginsburg-rbg-merrick-garland-amy-coney-barrett/572533201/"
-"388","Minnesota",44.8,34.8,500,"Suffolk University",69978,130318,"https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A"
-"389","Minnesota",44,37,929,"SurveyUSA",70660,132226,"https://www.kaaltv.com/minnesota-news/surveyusa-poll/5888415/?cat=10151"
-"390","Mississippi",42,47,600,"Garin-Hart-Yang Research Group",68045,127433,"https://projects.fivethirtyeight.com/polls/20200813_MS.pdf"
-"391","Mississippi",40,41,600,"The Tyson Group",69580,129668,"https://projects.fivethirtyeight.com/polls/20200921_MS.pdf"
-"392","Montana",47.3,43,517,"University of Montana",66978,125100,"https://www.umt.edu/bigskypoll/Polls/summer2020/summer2020---aggregate.pdf"
-"393","Montana",46,44,1224,"Public Policy Polling",67067,125315,"https://www.publicpolicypolling.com/wp-content/uploads/2020/07/MontanaPoll071220.pdf"
-"394","Montana",47,49,873,"Civiqs",67079,125337,"https://civiqs.com/documents/Civiqs_DailyKos_MT_banner_book_2020_07_ba6t8k.pdf"
-"395","Montana",43.85,47.09,701,"Spry Strategies",67626,126537,"https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Montana.pdf"
-"396","Montana",43.67,50.04,584,"Emerson College",67867,127065,"https://emersonpolling.reportablenews.com/pr/montana-2020-trump-holds-strong-as-biden-coalesces-support"
-"397","Montana",47,50,800,"Fabrizio Ward/Hart Research Associates",68577,128413,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-montana-annotated-questionnaire.doi.10.26419-2Fres.00401.022.pdf"
-"398","Montana",44,45,625,"Siena College/The New York Times Upshot",69561,129596,"https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf"
-"399","Montana",49,47,1615,"Montana State University Bozeman",70992,132853,"https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/Senate_Overview_Final_11Oct2020.pdf"
-"400","Montana",48,47,737,"Data for Progress",70656,132127,"https://filesforprogress.org/memos/2020-senate-project/week-3/MT.pdf"
-"401","Montana",42.7,51.8,500,"Emerson College",70662,132137,"https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races"
-"402","Montana",48,48,798,"Public Policy Polling",70732,132323,"https://www.publicpolicypolling.com/wp-content/uploads/2020/10/MontanaOctober2020Poll.pdf"
-"403","Montana",47,49,800,"RMG Research",71363,133637,"http://politicaliq.com/2020/10/19/montana-senate-race-daines-r-49-bullock-d-47/"
-"404","New Hampshire",56,37,657,"University of Massachusetts Lowell",70045,130475,"https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf"
-"405","New Hampshire",56,40,600,"American Research Group",70600,132004,"https://americanresearchgroup.com/nhpoll/senate20/"
-"406","New Hampshire",54,41,972,"University of New Hampshire",70066,130606,"https://scholars.unh.edu/cgi/viewcontent.cgi?article=1612&context=survey_center_polls"
-"407","New Hampshire",55.2,40.1,700,"Emerson College",70112,130625,"https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-biden-leads-trump-independents-splitting-their-ticket"
-"408","New Hampshire",53,39,1147,"Saint Anselm College",70687,132215,"https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf"
-"409","New Hampshire",55,40,899,"University of New Hampshire",70787,133096,"https://scholars.unh.edu/survey_center_polls/620/"
-"410","New Hampshire",50.8,36.4,500,"Suffolk University",70978,132812,"https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/new-hampshire/2020/10_14_2020_tables_pdftxt.pdf?la=en&hash=A14911E2705329E0118A8C1B19ECE20CFECB35CA"
-"411","New Jersey",51.55,27.54,500,"Emerson College",68512,128266,"https://emersonpolling.reportablenews.com/pr/new-jersey-2020-biden-and-booker-with-significant-leads-in-the-garden-state"
-"412","New Jersey",56.6,31.6,721,"Stockton University",71176,133258,"https://stockton.edu/hughes-center/polling/documents/2020-1016-full-poll-results.pdf"
-"413","New Mexico",48,34,740,"Public Policy Polling",66817,124680,"https://nmpoliticalreport.com/2020/06/16/poll-biden-lujan-lead-in-new-mexico-after-primaries/"
-"414","New Mexico",49,40,1123,"Research & Polling Inc.",68491,128236,"https://www.abqjournal.com/1493963/journal-poll-lujan-leads-ronchetti-in-us-senate-race.html"
-"415","New Mexico",51,41,886,"Public Policy Polling",70593,132094,"https://www.scribd.com/document/479132130/New-Mexico-PPP-poll"
-"416","North Carolina",51,41,468,"Change Research",66959,125037,"https://www.changeresearch.com/post/states-of-play-battleground-wave-8"
-"417","North Carolina",47,39,818,"Public Policy Polling",67044,125268,"https://www.publicpolicypolling.com/wp-content/uploads/2020/07/NorthCarolinaResults7920.pdf"
-"418","North Carolina",49,42,655,"Change Research",67090,125359,"https://www.changeresearch.com/post/states-of-play-battleground-wave-9"
-"419","North Carolina",47.3,44.2,547,"Cardinal Point Analytics (CardinalGPS)",67586,126455,"https://cpapolling.com/wp-content/uploads/2020/07/NC_Poll_Results_2020-07-20.pdf"
-"420","North Carolina",40.38,39.77,700,"Spry Strategies",67627,126538,"https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP_North_Carolina.pdf"
-"421","North Carolina",47,36,919,"Redfield & Wilton Strategies",67839,126990,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-19-to-24-july/"
-"422","North Carolina",50,41,882,"Marist College",67669,126682,"http://maristpoll.marist.edu/wp-content/uploads/2020/07/NBC-News_Marist-Poll-NC-NOS-and-Tables_202007231148.pdf"
-"423","North Carolina",48,40,939,"Public Policy Polling",67654,126609,"https://drive.google.com/file/d/1Aj_jOKH2jEB3fi3JdW0snX5rVIhN1nna/view"
-"424","North Carolina",42.9,43.1,735,"Cardinal Point Analytics (CardinalGPS)",67834,126977,"https://cpapolling.com/wp-content/uploads/2020/07/NC_Poll_Results_2020-07-29.pdf"
-"425","North Carolina",52,40,284,"Change Research",67811,126910,"https://www.changeresearch.com/post/states-of-play-battleground-wave-10"
-"426","North Carolina",46,37,1504,"Morning Consult",67691,126765,"https://morningconsult.com/2020/07/28/senate-presidential-polling-political-intelligence/"
-"427","North Carolina",48,44,934,"Public Policy Polling",67985,127306,"https://giffords.org/wp-content/uploads/2020/08/NCResults1.pdf"
-"428","North Carolina",48,39,1121,"YouGov",67859,127046,"https://drive.google.com/file/d/1jDu_IMRdUTbdmA-VfpP-neMT3-lYw969/view"
-"429","North Carolina",48,32,400,"HIT Strategies",67983,127301,"https://dfer.org/press/erna-poll-shows-biden-leading-in-south/"
-"430","North Carolina",49,41,1170,"Data for Progress",67937,127197,"http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_North%20Carolina_8_20_xtabs.pdf"
-"431","North Carolina",48,43,491,"Change Research",68014,127370,"https://www.changeresearch.com/post/states-of-play-battleground-wave-11"
-"432","North Carolina",44.31,41.47,673,"Emerson College",68006,127357,"https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions"
-"433","North Carolina",41,38,600,"Harper Polling",68051,127445,"https://www.nccivitas.org/polling/biden-cunningham-slim-leads/"
-"434","North Carolina",44.3,39.8,1255,"East Carolina University",68076,127506,"https://surveyresearch-ecu.reportablenews.com/pr/latest-ecu-poll-shows-trump-and-biden-tied-in-north-carolina-democrats-leading-in-contests-for-governor-and-u-s-senate-kamala-harris-selection-draws-mixed-reaction"
-"435","North Carolina",47,38,967,"Redfield & Wilton Strategies",68156,127663,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/"
-"436","North Carolina",52,42,560,"Change Research",68207,127748,"https://changeresearch.com/post/states-of-play-battleground-wave-12/"
-"437","North Carolina",47,39,1541,"Morning Consult",68178,127698,"https://morningconsult.com/2020/08/24/majority-makers-north-carolina-senate-cunningham-tillis/"
-"438","North Carolina",44.1,43.6,1101,"East Carolina University",68307,127934,"https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-trump-leads-biden-by-two-points-tillis-and-cunningham-tied-cooper-leads-forest-by-ten-points-other-statewide-races-competitive"
-"439","North Carolina",47,40,804,"Fox News/Beacon Research/Shaw & Co. Research",68339,128024,"https://static.foxnews.com/foxnews.com/content/uploads/2020/09/North-Carolina.pdf"
-"440","North Carolina",48,42,722,"Fox News/Beacon Research/Shaw & Co. Research",68339,128025,"https://static.foxnews.com/foxnews.com/content/uploads/2020/09/North-Carolina.pdf"
-"441","North Carolina",46,45,401,"Monmouth University",68464,128161,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/"
-"442","North Carolina",47,45,401,"Monmouth University",68464,128162,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/"
-"443","North Carolina",46,46,401,"Monmouth University",68464,128163,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/"
-"444","North Carolina",47,37,951,"Redfield & Wilton Strategies",68523,128375,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/"
-"445","North Carolina",51,44,442,"Change Research",68536,128361,"https://changeresearch.com/post/states-of-play-battleground-wave-13/"
-"446","North Carolina",46.55,43.82,1000,"Rasmussen Reports/Pulse Opinion Research",69408,129263,"https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_senate_cunningham_d_47_tillis_r_44"
-"447","North Carolina",42,39,1600,"Benenson Strategy Group/GS Strategy Group",68576,128403,"https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-north-carolina-topline.doi.10.26419-2Fres.00401.008.pdf"
-"448","North Carolina",46.1,45.3,1046,"Trafalgar Group",69442,129340,"https://drive.google.com/file/d/1PIe4nvZYQ2UZ5e30NenDolEgi1QlYl8_/view"
-"449","North Carolina",47,40,596,"SurveyUSA",69444,129339,"http://www.surveyusa.com/client/PollReport.aspx?g=a2f5b7cf-37da-40e4-9dad-921d655242b8"
-"450","North Carolina",46,44,893,"SSRS",69462,129373,"https://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf"
-"451","North Carolina",47,46,787,"SSRS",69462,129374,"https://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf"
-"452","North Carolina",41,37,1172,"Kaiser Family Foundation",69502,129471,"https://www.kff.org/other/report/sun-belt-voices-project/"
-"453","North Carolina",41.6,37.8,500,"Suffolk University",69504,129475,"https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_17_2020_final_marginals_pdftxt.pdf"
-"454","North Carolina",49,38,1092,"Redfield & Wilton Strategies",69545,129569,"https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/"
-"455","North Carolina",42,37,653,"Siena College/The New York Times Upshot",69525,129512,"https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf"
-"456","North Carolina",48,44,586,"Ipsos",69662,129869,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_north_carolina_state_poll_w1_09_22_2020.pdf"
-"457","North Carolina",45.56,39.11,1664,"Morning Consult",70768,132387,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"458","North Carolina",48.93,42.97,717,"Emerson College",69570,129809,"https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-in-dead-heat"
-"459","North Carolina",48,43,579,"Change Research",69684,129911,"https://changeresearch.com/post/states-of-play-battleground-wave-14/"
-"460","North Carolina",44,38,612,"Harper Polling",69650,129853,"https://www.nccivitas.org/polling/cunninghams-lead-tillis-grows-election-nears/"
-"461","North Carolina",47,38,1604,"Morning Consult",69638,129830,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"462","North Carolina",43.1,41.8,705,"Meredith College",70010,130414,"https://www.meredith.edu/assets/images/content/Meredith_College_Poll_Report_September_2020.pdf"
-"463","North Carolina",48,38,1213,"YouGov",69992,130363,"https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/"
-"464","North Carolina",49,43,921,"University of Massachusetts Lowell",70044,130474,"https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf"
-"465","North Carolina",54,41,400,"Garin-Hart-Yang Research Group",70133,130671,"https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none"
-"466","North Carolina",53,41,822,"ALG Research",70106,130602,"https://04acb8ce-8717-494a-8b55-56f4a82a107c.usrfiles.com/ugd/04acb8_121df148ec7b4053b105c08f0221a51a.pdf"
-"467","North Carolina",50,46,396,"Change Research",70607,132076,"https://changeresearch.com/post/states-of-play-battleground-wave-15/"
-"468","North Carolina",46.4,46.7,1232,"East Carolina University",70614,132030,"https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive"
-"469","North Carolina",48,42,911,"Public Policy Polling",70576,131668,"https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf"
-"470","North Carolina",50,39,1285,"Data for Progress",70657,132128,"https://filesforprogress.org/memos/2020-senate-project/week-3/NC.pdf"
-"471","North Carolina",47,42,601,"Ipsos",70616,132034,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline-reuters-north-carolina-state-poll-wave-2-100620_0.pdf"
-"472","North Carolina",49,39,669,"SurveyUSA",70743,132341,"https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/12/19332468/PollPrint-DMID1-5ohw9o5y4.pdf"
-"473","North Carolina",48,44,500,"Monmouth University",70780,132419,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/"
-"474","North Carolina",49,44,500,"Monmouth University",70780,132420,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/"
-"475","North Carolina",48,47,500,"Monmouth University",70780,132421,"https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/"
-"476","North Carolina",46,36,800,"RMG Research",70797,132451,"http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/"
-"477","North Carolina",46,44,500,"Susquehanna Polling & Research Inc.",70990,132848,"https://amgreatness.com/2020/10/14/north-carolina-race-tightens-according-to-new-poll/"
-"478","North Carolina",47,41,1993,"Morning Consult",70758,132380,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"479","North Carolina",41,37,627,"Siena College/The New York Times Upshot",70998,132863,"https://int.nyt.com/data/documenttools/nc100920-crosstabs/3bf558d7ca17e9de/full.pdf"
-"480","North Carolina",46,42,660,"Ipsos",70786,132437,"https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf"
-"481","North Carolina",44.6,43.5,721,"Emerson College",71161,133225,"https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races"
-"482","North Carolina",51,45,1211,"Civiqs",71070,133036,"https://civiqs.com/documents/Civiqs_DailyKos_NC_banner_book_2020_10_g32na7.pdf"
-"483","North Carolina",49,46,706,"ABC News/The Washington Post",71441,133801,"https://www.washingtonpost.com/context/oct-12-17-2020-post-abc-poll-north-carolina/5bed58ac-8dc1-4018-857b-ab7aedeb3d2e/?tid=a_inl_manual&tidloc=8"
-"484","North Carolina",49,47,646,"ABC News/The Washington Post",71441,133802,"https://www.washingtonpost.com/context/oct-12-17-2020-post-abc-poll-north-carolina/5bed58ac-8dc1-4018-857b-ab7aedeb3d2e/?tid=a_inl_manual&tidloc=8"
-"485","Oklahoma",32.8,57.3,486,"SoonerPoll.com",68569,128392,"https://d3nbrdofkhtiou.cloudfront.net/kwtv/production/2020/September/10/news-9--news-on-6-general-election-poll.1599771666459.pdf"
-"486","Oklahoma",30,46,500,"Amber Integrated",69956,130278,"https://projects.fivethirtyeight.com/polls/20200924_OK.pdf"
-"487","Oregon",55,35,944,"Civiqs",70076,130550,"https://civiqs.com/documents/Civiqs_DailyKos_OR_banner_book_2020_09_7b4xvh.pdf"
-"488","South Carolina",41,48,604,"Gravis Marketing",67578,126434,"https://www.gravismarketing.com/south-carolina-poll-results-gravis-marketing-2020/"
-"489","South Carolina",41,43,800,"brilliant corners Research & Strategies",67677,126708,"https://jaimeharrison.com/wp-content/uploads/2020/07/Poll-721.pdf"
-"490","South Carolina",45,49,591,"ALG Research",67684,126744,"https://lindseymustgo.com/wp-content/uploads/2020/07/Baseline-SC-Statewide-July-2020-1.pdf"
-"491","South Carolina",44,47,1117,"Public Policy Polling",68008,127358,"https://giffords.org/wp-content/uploads/2020/08/SouthCarolinaResults1.pdf"
-"492","South Carolina",43,44,741,"Morning Consult",67881,127095,"https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/"
-"493","South Carolina",44,44,914,"Quinnipiac University",67951,127228,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670"
-"494","South Carolina",48,48,969,"Quinnipiac University",69491,129450,"https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673"
-"495","South Carolina",45.59,44.9,782,"Morning Consult",70769,132388,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"496","South Carolina",45,46,764,"Morning Consult",69637,129832,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"497","South Carolina",45,43,608,"brilliant corners Research & Strategies",69997,130361,"https://jaimeharrison.com/wp-content/uploads/2020/09/Harrison-Sept-polling-memo-d2-1.pdf"
-"498","South Carolina",44,45,1080,"YouGov",69993,130364,"https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/"
-"499","South Carolina",48,48,1123,"Quinnipiac University",70070,130527,"https://poll.qu.edu/south-carolina/release-detail?ReleaseID=3677"
-"500","South Carolina",48,47,800,"GBAO",70670,132164,"https://www.dscc.org/news/new-dscc-poll-results-find-jaime-harrison-leading-vulnerable-senator-lindsey-graham-by-1-point-in-south-carolina-senate-race/"
-"501","South Carolina",44,45,824,"Data for Progress",70082,130567,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_SC_Senate_week2.pdf"
-"502","South Carolina",46,47,824,"Data for Progress",70082,130568,"https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_SC_Senate_week2.pdf"
-"503","South Carolina",46,46,1011,"ALG Research",70790,132441,"https://lindseymustgo.com/wp-content/uploads/2020/10/SC-PUBLIC-POLL-SUMMARY-ALG.pdf"
-"504","South Carolina",47,46,801,"Data for Progress",71011,132896,"https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_sc_week_4_toplines.pdf"
-"505","South Carolina",42,48,903,"Morning Consult",70761,132381,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"506","South Carolina",40,46,605,"Siena College/The New York Times Upshot",71096,133087,"https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf"
-"507","South Carolina",47,45,525,"brilliant corners Research & Strategies",71233,133369,"https://jaimeharrison.com/wp-content/uploads/2020/10/10.16-Poll.pdf"
-"508","Texas",38,47,880,"Quinnipiac University",67617,126514,"https://poll.qu.edu/texas/release-detail?ReleaseID=3667"
-"509","Texas",37.27,47.44,750,"Spry Strategies",67629,126539,"https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Texas_.pdf"
-"510","Texas",42,43,700,"Global Strategy Group/Latino Decisions",67883,127097,"https://www.politico.com/f/?id=00000173-b621-d8c4-a7f7-f76173a60000"
-"511","Texas",38,44,2576,"Morning Consult",67882,127096,"https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/"
-"512","Texas",37.4,44.4,846,"YouGov",68082,127527,"https://www.txhpf.org/wp-content/uploads/2020/08/THPFFinalAug17.pdf"
-"513","Texas",40,46,2295,"Data for Progress",68480,128199,"https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf"
-"514","Texas",42,44,906,"The Tyson Group",69578,129667,"https://projects.fivethirtyeight.com/polls/20200921_TX.pdf"
-"515","Texas",40,44,743,"Public Policy Polling",68513,128273,"https://giffords.org/wp-content/uploads/2020/09/TexasResults1.pdf"
-"516","Texas",24,34,1176,"University of Texas at Tyler",68492,128224,"https://www.scribd.com/document/475037655/Aug28-Sept2-DMN-UTTyler-2020-Poll-Codebook-4"
-"517","Texas",28,39,901,"University of Texas at Tyler",68492,128225,"https://www.scribd.com/document/475037655/Aug28-Sept2-DMN-UTTyler-2020-Poll-Codebook-4"
-"518","Texas",38.45,44.95,2555,"Morning Consult",70770,132389,"https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/"
-"519","Texas",41,46,1129,"YouGov",69565,129608,"https://drive.google.com/file/d/1ZsMPYa9d2L2vg4YYk-DFcwlXosTMmMYP/view"
-"520","Texas",39,45,2616,"Morning Consult",69642,129835,"https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/"
-"521","Texas",42,50,1078,"Quinnipiac University",69955,130272,"https://poll.qu.edu/ohio/release-detail?ReleaseID=3675"
-"522","Texas",37,43,653,"Siena College/The New York Times Upshot",69711,129986,"https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf"
-"523","Texas",38,40,726,"Data for Progress",69975,130315,"https://filesforprogress.org/memos/student-debt-project-electoral.pdf"
-"524","Texas",40,50,882,"University of Massachusetts Lowell",70046,130476,"https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf"
-"525","Texas",42,50,908,"YouGov",70694,132240,"https://static.texastribune.org/media/files/922524cf3ab155eb04b70075f96948ab/uttt-2020-10-day1topline.pdf?_ga=2.167788513.1578857801.1602243186-1274457702.1602243185"
-"526","Texas",42,45,1949,"Data for Progress",70658,132129,"https://filesforprogress.org/memos/2020-senate-project/week-3/TX.pdf"
-"527","Texas",39,48,1000,"Rasmussen Reports/Pulse Opinion Research",70682,132201,"https://crosswindpr.com/texas-statewide-poll-shows-trump-leading-biden-7-among-likely-voters/"
-"528","Texas",46,47,895,"Civiqs",70630,132069,"https://civiqs.com/documents/Civiqs_DailyKos_TX_banner_book_2020_10_cm5k3s.pdf"
-"529","Texas",38,47,3455,"Morning Consult",70762,132382,"https://morningconsult.com/form/2020-u-s-election-tracker/"
-"530","Texas",46,49,712,"Public Policy Polling",71169,133244,"https://www.publicpolicypolling.com/wp-content/uploads/2020/10/TexasSenatePollOctober2020-1.pdf"
-"531","Texas",41,44,933,"Data for Progress",71437,133786,"https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/tx.pdf"
-"532","Virginia",55,34,566,"Roanoke College",68212,127755,"https://www.roanoke.edu/about/news/rc_poll_politics_aug_2020"
-"533","Virginia",55,38,693,"Virginia Commonwealth University",69467,129385,"https://oppo.vcu.edu/media/oppo/September2020Release1final.pdf"
-"534","Virginia",52,39,796,"Christopher Newport University",69713,130001,"https://cnu.edu/wasoncenter/surveys/2020-09-24/"
-"535","Virginia",50.7,41.3,600,"Cygnal",71360,133633,"https://gadeforvirginia.com/new-poll-shows-gade-down-by-single-digits/"
-"536","Virginia",51.3,44.2,607,"Cygnal",71359,133634,"https://martinsvillebulletin.com/news/local/govt-and-politics/election-2020-republican-senate-candidate-daniel-gade-criticizes-mark-warner-and-the-democratic-party-during/article_62a1a626-6a8a-51cb-9c2f-562effcfa3db.html"
-"537","Virginia",55,38,602,"Reconnect Research/Roanoke College",71071,133038,"https://www.roanoke.edu/about/news/reconnect_research_roanoke_college_va_poll"
-"538","Virginia",54,43,1231,"Civiqs",71068,133034,"https://civiqs.com/documents/Civiqs_DailyKos_VA_banner_book_2020_10_48z9k2.pdf"
-"539","West Virginia",33,53,450,"Research America Inc.",70703,132428,"https://www.documentcloud.org/documents/7228688-WV-Poll-10-13-Release.html"
+"","state","pollster","url","start_date","end_date","sample_size","population_full","Dem_Pct","Rep_Pct"
+"1","Alabama","Morning Consult","https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/",2020-07-24,"8/2/2020",609,"lv",35,52
+"2","Alabama","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",658,"lv",34,52
+"3","Alabama","Auburn University at Montgomery","https://www.aum.edu/wp-content/uploads/2020/10/aum_poll_10042020_alabama1.pdf",2020-09-30,"10/3/2020",1072,"rv",42.1,54
+"4","Alabama","FM3 Research","https://dougjones.com/sites/default/files/media_uploads/220-6003C%20Alabama%20Senate%20Survey%20Memo-F.pdf",2020-10-11,"10/14/2020",801,"lv",48,47
+"5","Alabama","Moore Information","https://www.al.com/news/2020/10/tuberville-campaign-tells-potential-donors-hes-fallen-behind-jones.html",2020-10-11,"10/14/2020",504,"lv",40,55
+"6","Alaska","Public Policy Polling","https://drive.google.com/file/d/1ir0a6eAHT04YSudrwp2AT-SC71wvmCqe/view",2020-08-27,"8/28/2020",638,"v",43,43
+"7","Alaska","Harstad Strategic Research Inc.","https://twitter.com/Nat_Herz/status/1310661243410104320/photo/1",2020-09-20,"9/23/2020",602,"lv",45,46
+"8","Alaska","Patinkin Research Strategies","https://twitter.com/Nat_Herz/status/1317942531120898048?s=20",2020-09-30,"10/4/2020",600,"lv",47,46
+"9","Alaska","Alaska Survey Research","https://twitter.com/IvanMoore1/status/1313647136257372161?s=20",2020-09-25,"10/4/2020",676,"lv",44,48
+"10","Alaska","Harstad Strategic Research Inc.","https://midnightsunak.com/2020/10/15/gross-gains-slight-lead-on-sullivan-in-latest-poll/",2020-10-02,"10/6/2020",600,"lv",46,46
+"11","Alaska","Harstad Strategic Research Inc.","https://drive.google.com/file/d/19_wiB30w2j7j9i0dSIBT4oZYAnr0oiGo/view",2020-10-10,"10/13/2020",606,"lv",47,46
+"12","Alaska","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf",2020-10-09,"10/14/2020",423,"lv",37,45
+"13","Arizona","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-11",2020-08-07,"8/9/2020",428,"lv",49,43
+"14","Arizona","Emerson College","https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions",2020-08-08,"8/10/2020",661,"lv",51.81,41.21
+"15","Arizona","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/",2020-08-16,"8/18/2020",856,"lv",53,34
+"16","Arizona","Fox News/Beacon Research/Shaw & Co. Research","https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Arizona.pdf",2020-08-29,"9/1/2020",858,"rv",55,38
+"17","Arizona","Fox News/Beacon Research/Shaw & Co. Research","https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Arizona.pdf",2020-08-29,"9/1/2020",772,"lv",56,39
+"18","Arizona","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/",2020-08-30,"9/4/2020",830,"lv",53,38
+"19","Arizona","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-13/",2020-09-04,"9/6/2020",470,"lv",51,45
+"20","Arizona","Benenson Strategy Group/GS Strategy Group","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-arizona-topline.doi.10.26419-2Fres.00401.002.pdf",2020-08-28,"9/8/2020",1600,"lv",48,45
+"21","Arizona","OH Predictive Insights","https://f.hubspotusercontent40.net/hubfs/7453540/200908%20AZPOP/AZPOP%20Crosstabs%20-%20Senate.pdf",2020-09-08,"9/10/2020",600,"lv",52,42
+"22","Arizona","Gravis Marketing","https://gravismarketing.com/wp-content/uploads/2020/09/Arizona-September-11-2020.pdf",2020-09-10,"9/11/2020",684,"lv",48,43
+"23","Arizona","YouGov","https://drive.google.com/file/d/1hr0WLAZhvP2k_BOL7sRwEifQgu2JAOTU/view",2020-09-09,"9/11/2020",1102,"lv",49,42
+"24","Arizona","Kaiser Family Foundation","https://www.kff.org/other/report/sun-belt-voices-project/",2020-08-29,"9/13/2020",1298,"rv",44,36
+"25","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/",2020-09-11,"9/15/2020",420,"rv",50,44
+"26","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/",2020-09-11,"9/15/2020",420,"lv",50,46
+"27","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_091720.pdf/",2020-09-11,"9/15/2020",420,"lv",49,48
+"28","Arizona","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",2020-09-10,"9/15/2020",653,"lv",50,42
+"29","Arizona","Fabrizio, Lee & Associates","https://www.politico.com/f/?id=00000174-b2e8-d59c-a174-f6fc6db30000",2020-09-14,"9/16/2020",800,"lv",48,46
+"30","Arizona","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",2020-09-12,"9/16/2020",855,"lv",52,35
+"31","Arizona","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf",2020-09-11,"9/16/2020",565,"lv",50,41
+"32","Arizona","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",900,"lv",48.15,40.9
+"33","Arizona","Garin-Hart-Yang Research Group","https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",2020-09-17,"9/19/2020",400,"lv",55,43
+"34","Arizona","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-14/",2020-09-18,"9/20/2020",262,"lv",51,43
+"35","Arizona","ABC News/The Washington Post","https://www.washingtonpost.com/context/sept-15-20-2020-florida-and-arizona-washington-post-abc-news-polls/48276797-3b93-4ab2-835b-ed2fcdc8581e/",2020-09-15,"9/20/2020",701,"rv",50,45
+"36","Arizona","ABC News/The Washington Post","https://www.washingtonpost.com/context/sept-15-20-2020-florida-and-arizona-washington-post-abc-news-polls/48276797-3b93-4ab2-835b-ed2fcdc8581e/",2020-09-15,"9/20/2020",579,"lv",49,48
+"37","Arizona","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",907,"lv",49,40
+"38","Arizona","Data for Progress","https://filesforprogress.org/memos/student-debt-project-electoral.pdf",2020-09-15,"9/22/2020",481,"lv",47,38
+"39","Arizona","Susquehanna Polling & Research Inc.","https://amgreatness.com/2020/09/29/trump-and-biden-tied-in-new-arizona-poll/",2020-09-25,"9/28/2020",500,"lv",48,44
+"40","Arizona","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_AZ_Senate_week2.pdf",2020-09-23,"9/28/2020",808,"lv",51,42
+"41","Arizona","Suffolk University","https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_2_2020_tables_pdftxt.pdf?la=en&hash=092D976850EB75E3AD343E1F122E02FA8C57CEFC",2020-09-26,"9/30/2020",500,"lv",49,40
+"42","Arizona","Morning Consult","https://morningconsult.com/2020/10/05/arizona-senate-polling-martha-mcsally-mark-kelly/",2020-09-22,"10/1/2020",1048,"lv",51,38
+"43","Arizona","Targoz Market Research","https://www.pollsmartmr.com/latest-polls-1/trump-kelly-lead-in-arizona",2020-09-23,"10/2/2020",1045,"lv",51,41
+"44","Arizona","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/az100120-crosstabs/a77605c32cd8f31e/full.pdf",2020-10-01,"10/3/2020",655,"lv",50,39
+"45","Arizona","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-15/",2020-10-02,"10/4/2020",296,"lv",51,43
+"46","Arizona","Data Orbital","https://www.dataorbital.com/the-blog/breaking-in-az-us-senate-race-tightens-and-president-trump-down-45",2020-10-03,"10/5/2020",550,"lv",49.2,43.7
+"47","Arizona","HighGround Inc.","https://projects.fivethirtyeight.com/polls/20201007_AZ_HighGround.pdf",2020-09-28,"10/5/2020",400,"lv",50,43.5
+"48","Arizona","Latino Decisions","http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf",2020-09-28,"10/6/2020",600,"lv",47,42
+"49","Arizona","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w2_10_07_2020.pdf",2020-09-29,"10/7/2020",633,"lv",51,41
+"50","Arizona","OH Predictive Insights","https://f.hubspotusercontent40.net/hubfs/7453540/201005_AZPOP/PR_Arizona%20Public%20Opinion%20Pulse%20Toplines%20and%20Crosstabs%20(1).pdf?utm_medium=email&_hsmi=97443604&_hsenc=p2ANqtz-8YKdQGdcjhrShEJfsBc7JTFdlklT1RodoeG-nMmCGHWRDUFwNlhUCpC0Qyjh4DQGGGyPyUZaS7ikUHptXoT6cVk8q7kfO-4hRg1rAyzImJPZbVBeA&utm_content=97443604&utm_source=hs_email",2020-10-04,"10/8/2020",608,"lv",50,45
+"51","Arizona","Trafalgar Group","https://drive.google.com/file/d/1Wi8S4iVv3og1J-ril-RG3uZYlDHTz8gx/view",2020-10-06,"10/9/2020",1045,"lv",47.3,45.4
+"52","Arizona","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",1144,"lv",49,41
+"53","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/",2020-10-09,"10/13/2020",502,"rv",52,42
+"54","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/",2020-10-09,"10/13/2020",502,"lv",52,42
+"55","Arizona","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/",2020-10-09,"10/13/2020",502,"lv",51,45
+"56","Arizona","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w3_10_14_2020_1.pdf",2020-10-07,"10/14/2020",667,"lv",52,41
+"57","Arizona","YouGov","https://drive.google.com/file/d/1j9uJnxfT1x8spYhW2QmAq6OkSMd06wJG/view",2020-10-13,"10/16/2020",1065,"lv",52,41
+"58","Arizona","Data Orbital","https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day",2020-10-16,"10/18/2020",550,"lv",48.1,41.9
+"59","Arkansas","American Research Group","https://237995-729345-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/10/Arkansas-Senate-Frequency-Counts.pdf",2020-10-07,NA,600,"lv",NA,49
+"60","Arkansas","Hendrix College","https://talkbusiness.net/2020/10/trump-cotton-on-cruise-control-for-re-election/",2020-10-11,NA,647,"lv",NA,62.5
+"61","Colorado","Morning Consult","https://morningconsult.com/2020/07/28/senate-presidential-polling-political-intelligence/",2020-07-17,"7/26/2020",616,"lv",48,42
+"62","Colorado","Public Policy Polling","https://giffords.org/wp-content/uploads/2020/08/ColoradoResults1.pdf",2020-08-18,"8/19/2020",731,"v",51,42
+"63","Colorado","Morning Consult","https://morningconsult.com/2020/09/03/majority-makers-colorado-senate-hickenlooper-gardner/",2020-08-21,"8/30/2020",638,"lv",48,39
+"64","Colorado","Global Strategy Group","https://www.globalstrategygroup.com/wp-content/uploads/2020/09/CO-Mountaineer-Q3-Survey-Topline-F09.03.20.pdf",2020-08-28,"9/1/2020",800,"lv",52,42
+"65","Colorado","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-colorado-annotated-questionnaire.doi.10.26419-2Fres.00401.014.pdf",2020-08-30,"9/5/2020",800,"lv",51,46
+"66","Colorado","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",599,"lv",45.82,43.61
+"67","Colorado","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",613,"lv",49,42
+"68","Colorado","SurveyUSA","https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec",2020-10-01,"10/6/2020",1021,"lv",48,39
+"69","Colorado","YouGov","https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf",2020-10-05,"10/9/2020",800,"lv",48,40
+"70","Colorado","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",837,"lv",50,40
+"71","Colorado","Keating Research/OnSight Public Affairs/Melanson","https://twitter.com/blairmiller/status/1316782776922722304",2020-10-08,"10/13/2020",519,"lv",51,41
+"72","Colorado","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_CO_banner_book_2020_10_mk0d15.pdf",2020-10-11,"10/14/2020",1013,"lv",53,42
+"73","Colorado","RBI Strategies & Research","http://www.rbistrategies.com/wp-content/uploads/2020/10/Statewide-Polling-Memo-October-2020.pdf",2020-10-12,"10/16/2020",502,"lv",53,39
+"74","Delaware","University of Delaware","https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/",2020-09-21,"9/27/2020",847,"lv",57,27
+"75","Georgia","Public Policy Polling","https://s3.amazonaws.com/s3.moveon.org/images/GeorgiaResults1.pdf",2020-08-13,"8/14/2020",530,"v",44,44
+"76","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",40.42,46.63
+"77","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",5.8,21.04
+"78","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",13.19,21.04
+"79","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",15.94,21.04
+"80","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",2.09,21.04
+"81","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",5.8,26.05
+"82","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",13.19,26.05
+"83","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",15.94,26.05
+"84","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",2.09,26.05
+"85","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",5.8,3.53
+"86","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",13.19,3.53
+"87","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",15.94,3.53
+"88","Georgia","Harris Insights & Analytics","https://projects.fivethirtyeight.com/polls/20200915_GA_Lieberman.xlsx",2020-08-20,"8/30/2020",1616,"rv",2.09,3.53
+"89","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",48,47
+"90","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",7,20
+"91","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",10,20
+"92","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",19,20
+"93","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",7,24
+"94","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",10,24
+"95","Georgia","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-georgia-annotated-questionnaire.doi.10.26419-2Fres.00401.016.pdf",2020-08-30,"9/5/2020",800,"lv",19,24
+"96","Georgia","GBAO","https://twitter.com/bluestein/status/1308820926595825675",2020-09-14,"9/16/2020",600,"lv",49,48
+"97","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/16/2020",800,"lv",43,43
+"98","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",5,19
+"99","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",11,19
+"100","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",25,19
+"101","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/16/2020",800,"lv",15,19
+"102","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/16/2020",800,"lv",21,19
+"103","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",5,29
+"104","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",11,29
+"105","Georgia","GBAO","https://warnockforgeorgia.com/wp-content/uploads/2020/09/Warnock-For-Georgia-Polling-Memo-092120.pdf",2020-09-14,"9/16/2020",600,"lv",25,29
+"106","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/16/2020",800,"lv",15,26
+"107","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/16/2020",800,"lv",21,26
+"108","Georgia","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",1402,"lv",42.63,43.15
+"109","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-A_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",41,43
+"110","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-A_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",44,44
+"111","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",14,22
+"112","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",26,22
+"113","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",14,21
+"114","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_GA-B_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",800,"lv",26,21
+"115","Georgia","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",1406,"lv",44,43
+"116","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",44.6,47
+"117","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",4.6,20.5
+"118","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",10.6,20.5
+"119","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",20.3,20.5
+"120","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",4.6,23.5
+"121","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",10.6,23.5
+"122","Georgia","University of Georgia","https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",2020-09-11,"9/20/2020",1150,"lv",20.3,23.5
+"123","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",42,48
+"124","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",43,48
+"125","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",42,50
+"126","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",38,41
+"127","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",4,22
+"128","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",11,22
+"129","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",21,22
+"130","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",3,23
+"131","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",11,23
+"132","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",23,23
+"133","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",2,24
+"134","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",9,24
+"135","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",25,24
+"136","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",4,19
+"137","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",7,19
+"138","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",19,19
+"139","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",4,23
+"140","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",11,23
+"141","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"rv",21,23
+"142","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",3,23
+"143","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",11,23
+"144","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",23,23
+"145","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",2,23
+"146","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",9,23
+"147","Georgia","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_092320.pdf/",2020-09-17,"9/21/2020",402,"lv",25,23
+"148","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",4,23
+"149","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",7,23
+"150","Georgia","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/21/2020",523,"lv",19,23
+"151","Georgia","YouGov","https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/",2020-09-22,"9/25/2020",1164,"lv",42,47
+"152","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",2020-09-23,"9/26/2020",789,"lv",47,42
+"153","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",2020-09-23,"9/26/2020",789,"lv",16,16
+"154","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",2020-09-23,"9/26/2020",789,"lv",26,16
+"155","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",2020-09-23,"9/26/2020",789,"lv",16,25
+"156","Georgia","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",2020-09-23,"9/26/2020",789,"lv",26,25
+"157","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",46,49
+"158","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",49,48
+"159","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",3,21
+"160","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",8,21
+"161","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",28,21
+"162","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",4,22
+"163","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",9,22
+"164","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",31,22
+"165","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",3,28
+"166","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",8,28
+"167","Georgia","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",28,28
+"168","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",4,23
+"169","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",9,23
+"170","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",2020-09-23,"9/27/2020",1125,"lv",31,23
+"171","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",48,46
+"172","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",2,25
+"173","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",5,25
+"174","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",38,25
+"175","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",38,44
+"176","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",49,44
+"177","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",2,21
+"178","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",5,21
+"179","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",38,21
+"180","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",39,39
+"181","Georgia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",2020-09-26,"9/29/2020",969,"lv",49,39
+"182","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",41.4,48.9
+"183","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",3.6,21.2
+"184","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",3.4,21.2
+"185","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",27.7,21.2
+"186","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",3.6,21.8
+"187","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",3.4,21.8
+"188","Georgia","University of Georgia","https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf",2020-09-27,"10/6/2020",1106,"lv",27.7,21.8
+"189","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"190","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.3,0
+"191","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"192","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.2,0
+"193","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",3.1,0
+"194","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",36.2,0
+"195","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"196","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.5,0
+"197","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",45.5,47
+"198","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"199","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.3,0
+"200","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"201","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.2,0
+"202","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",3.1,0
+"203","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",36.2,0
+"204","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,0
+"205","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.5,0
+"206","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,23.3
+"207","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.3,23.3
+"208","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,23.3
+"209","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.2,23.3
+"210","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",3.1,23.3
+"211","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",36.2,23.3
+"212","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,23.3
+"213","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.5,23.3
+"214","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,2.7
+"215","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.3,2.7
+"216","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,2.7
+"217","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.2,2.7
+"218","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",3.1,2.7
+"219","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",36.2,2.7
+"220","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,2.7
+"221","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.5,2.7
+"222","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,25.8
+"223","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.3,25.8
+"224","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,25.8
+"225","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.2,25.8
+"226","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",3.1,25.8
+"227","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",36.2,25.8
+"228","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0,25.8
+"229","Georgia","Landmark Communications","https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",2020-10-07,"10/7/2020",600,"lv",0.5,25.8
+"230","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",44,43
+"231","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",0,22
+"232","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",3,22
+"233","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",41,22
+"234","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",0,24
+"235","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",3,24
+"236","Georgia","Public Policy Polling","https://www.publicpolicypolling.com/polls/georgia-senate-races-look-runoff-bound/",2020-10-08,"10/9/2020",528,"v",41,24
+"237","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ga_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",44,43
+"238","Georgia","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",1837,"lv",42,46
+"239","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",1,22
+"240","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",10,22
+"241","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",30,22
+"242","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",1,22
+"243","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",10,22
+"244","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",30,22
+"245","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",44,40
+"246","Georgia","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/psp_ga_special_week_4_toplines.pdf",2020-10-08,"10/11/2020",782,"lv",41,42
+"247","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",43,46
+"248","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",51,45
+"249","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",3,20
+"250","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",8,20
+"251","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",30,20
+"252","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",2,22
+"253","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",5,22
+"254","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",41,22
+"255","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",54,42
+"256","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",3,26
+"257","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",8,26
+"258","Georgia","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6",2020-10-08,"10/12/2020",677,"lv",30,26
+"259","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",2,20
+"260","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",5,20
+"261","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",41,20
+"262","Georgia","Quinnipiac University","https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",2020-10-08,"10/12/2020",1160,"lv",52,44
+"263","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",44.5,46.1
+"264","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",1.8,26.5
+"265","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",12.1,26.5
+"266","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",26.5,26.5
+"267","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",47.9,46.5
+"268","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",1.8,19.9
+"269","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",12.1,19.9
+"270","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",26.5,19.9
+"271","Georgia","Emerson College","https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",2020-10-17,"10/19/2020",506,"lv",46.6,41.7
+"272","Idaho","Spry Strategies","http://womensliberationfront.org/wp-content/uploads/2020/09/Statewide_Idaho_8.25.20-Tables_Only-Tables_Only.pdf",2020-08-29,"9/1/2020",600,"lv",27.72,53.36
+"273","Iowa","Public Policy Polling","https://secure.emilyslist.org/page/-/IowaResults.pdf",2020-06-03,"6/4/2020",963,"v",45,43
+"274","Iowa","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_06_ony3r9.pdf",2020-06-06,"6/8/2020",865,"rv",48,45
+"275","Iowa","Selzer & Co.","https://assets.documentcloud.org/documents/6953460/2216-Methodology-062120.pdf",2020-06-07,"6/10/2020",674,"lv",46,43
+"276","Iowa","GQR Research (GQRR)","https://endcitizensunited.org/wp-content/uploads/2020/07/ECU-IA-Senate-Memo.pdf",2020-06-23,"6/28/2020",800,"lv",49,47
+"277","Iowa","Spry Strategies","https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Iowa_.pdf",2020-07-11,"7/16/2020",701,"lv",44.63,42.84
+"278","Iowa","RMG Research","https://www.termlimits.com/ernst/",2020-07-27,"7/30/2020",500,"rv",40,36
+"279","Iowa","Data for Progress","http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_Iowa_8_20_xtabs.pdf",2020-07-24,"8/2/2020",1101,"lv",45,43
+"280","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/",2020-07-30,"8/3/2020",401,"rv",45,48
+"281","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/",2020-07-30,"8/3/2020",401,"lv",47,48
+"282","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_080520.pdf/",2020-07-30,"8/3/2020",401,"lv",47,48
+"283","Iowa","Public Policy Polling","https://s3.amazonaws.com/s3.moveon.org/images/IowaResults1.pdf",2020-08-13,"8/14/2020",729,"v",48,45
+"284","Iowa","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-iowa-annotated-questionnaire.doi.10.26419-2Fres.00401.018.pdf",2020-08-30,"9/5/2020",800,"lv",45,50
+"285","Iowa","Selzer & Co.","https://assets.documentcloud.org/documents/7213769/Senate-Story-2224-Iowa-Poll-Sep-2020-Methodology.pdf",2020-09-14,"9/17/2020",658,"lv",45,42
+"286","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",2020-09-18,"9/22/2020",402,"rv",47,47
+"287","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",2020-09-18,"9/22/2020",402,"lv",49,46
+"288","Iowa","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",2020-09-18,"9/22/2020",402,"lv",48,47
+"289","Iowa","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/22/2020",501,"lv",42,40
+"290","Iowa","RABA Research","https://who13.com/news/theresa-greenfield-leads-joni-ernst-by-12-points-in-new-poll-of-iowa-voters/",2020-09-23,"9/26/2020",780,"lv",51,39
+"291","Iowa","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",48,48
+"292","Iowa","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_IA_Senate_week2.pdf",2020-09-23,"9/28/2020",743,"lv",46,45
+"293","Iowa","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_IA_Senate_week2.pdf",2020-09-23,"9/28/2020",743,"lv",44,42
+"294","Iowa","Quinnipiac University","https://poll.qu.edu/florida/release-detail?ReleaseID=3678",2020-10-01,"10/5/2020",1205,"lv",50,45
+"295","Iowa","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_10_u43b2l.pdf",2020-10-03,"10/6/2020",756,"lv",49,46
+"296","Iowa","YouGov","https://drive.google.com/file/d/1j1ecxNthrVLwbSmV5eSUGdeuEilTgKkd/view",2020-10-06,"10/9/2020",1022,"lv",47,43
+"297","Iowa","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ia_week_4_toplines.pdf",2020-10-08,"10/11/2020",822,"lv",47,43
+"298","Kansas","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/08/KansasMemoResultsAug20.pdf",2020-08-05,"8/6/2020",864,"v",42,43
+"299","Kansas","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=b7efcf1a-9519-4b36-95f6-5a05b8cc7f6d",2020-08-05,"8/9/2020",1202,"lv",44,46
+"300","Kansas","co/efficient","https://www.kansascity.com/news/politics-government/article246101020.html",2020-09-15,"9/16/2020",794,"lv",39,43
+"301","Kansas","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KS_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",883,"lv",40,40
+"302","Kansas","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KS_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",883,"lv",42,42
+"303","Kansas","GBAO","https://www.kansascity.com/news/politics-government/article246101020.html",2020-09-24,"9/27/2020",600,"lv",45,43
+"304","Kansas","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_KS_banner_book_2020_09_dw29u7.pdf",2020-09-26,"9/29/2020",677,"lv",43,50
+"305","Kansas","VCreek/AMG","https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",2020-09-29,"9/30/2020",3104,"lv",45.39,41.87
+"306","Kentucky","Garin-Hart-Yang Research Group","https://amymcgrath.com/wp-content/uploads/2020/07/Polling-Memo-07-16.pdf",2020-07-07,"7/12/2020",800,"lv",41,45
+"307","Kentucky","Spry Strategies","https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Kentucky.pdf",2020-07-11,"7/16/2020",700,"lv",33.14,55.29
+"308","Kentucky","Bluegrass Voters Coalition","https://ditchmitchfund.com/wp-content/uploads/2020/08/July-2020-Bluegrass-Kentucky-Poll-Memo.pdf",2020-07-25,"7/29/2020",3020,"rv",46,49
+"309","Kentucky","Morning Consult","https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/",2020-07-24,"8/2/2020",793,"lv",36,53
+"310","Kentucky","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670",2020-07-30,"8/3/2020",909,"rv",44,49
+"311","Kentucky","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",2020-09-10,"9/14/2020",1164,"lv",41,53
+"312","Kentucky","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KY_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",807,"lv",39,46
+"313","Kentucky","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_KY_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",807,"lv",41,48
+"314","Kentucky","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",746,"lv",37,52
+"315","Maine","Public Policy Polling","https://drive.google.com/file/d/1gfnY_jB5oYBFq7u9tPWolKsUzrpd4XAj/view",2020-07-22,"7/23/2020",561,"v",47,42
+"316","Maine","Colby College","http://www.colby.edu/government/2020-polling/",2020-07-18,"7/24/2020",888,"lv",44,39
+"317","Maine","RMG Research","https://www.termlimits.com/maine-poll/",2020-07-27,"8/2/2020",500,"rv",48,41
+"318","Maine","Data for Progress","http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_Maine_8_20_xtabs.pdf",2020-07-24,"8/2/2020",866,"lv",48,45
+"319","Maine","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670",2020-07-30,"8/3/2020",807,"rv",47,43
+"320","Maine","Critical Insights","https://drive.google.com/file/d/1QvLIr-Xi1OsOA_Ulz6jtWJnCZSN-1JyH/view",2020-07-28,"8/9/2020",500,"rv",43,35
+"321","Maine","Critical Insights","https://projects.fivethirtyeight.com/polls/20200812_ME.pdf",2020-07-28,"8/9/2020",453,"lv",43,38
+"322","Maine","Public Policy Polling","https://s3.amazonaws.com/s3.moveon.org/images/MaineResults1.pdf",2020-08-13,"8/14/2020",571,"v",49,44
+"323","Maine","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-maine-annotated-questionnaire.doi.10.26419-2Fres.00401.020.pdf",2020-08-30,"9/5/2020",800,"lv",48,47
+"324","Maine","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-maine-annotated-questionnaire.doi.10.26419-2Fres.00401.020.pdf",2020-08-30,"9/5/2020",800,"lv",44,43
+"325","Maine","Citizen Data","https://projects.fivethirtyeight.com/polls/20200911_ME.pdf",2020-09-04,"9/7/2020",600,"lv",48.95,40.82
+"326","Maine","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",2020-09-10,"9/14/2020",1183,"lv",54,42
+"327","Maine","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",2020-09-11,"9/16/2020",663,"lv",49,44
+"328","Maine","Siena College/The New York Times Upshot","https://twitter.com/Nate_Cohn/status/1306901222843187200",2020-09-11,"9/16/2020",663,"lv",44,40
+"329","Maine","Suffolk University","https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",2020-09-17,"9/20/2020",500,"lv",46.2,41
+"330","Maine","Suffolk University","https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",2020-09-17,"9/20/2020",500,"lv",49.2,42.2
+"331","Maine","Moore Information","https://subscriber.politicopro.com/article/2020/09/nrsc-internal-poll-shows-dead-heat-in-maine-3984119",2020-09-20,"9/22/2020",500,"lv",42,42
+"332","Maine","Colby College","http://www.colby.edu/government/2020-polling/",2020-09-17,"9/23/2020",847,"lv",45,41
+"333","Maine","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_ME_Senate_Week2.pdf",2020-09-23,"9/28/2020",718,"lv",46,41
+"334","Maine","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_ME_Senate_Week2.pdf",2020-09-23,"9/28/2020",718,"lv",50,42
+"335","Maine","Critical Insights","https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",2020-09-25,"10/4/2020",500,"rv",43,42
+"336","Maine","Critical Insights","https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",2020-09-25,"10/4/2020",466,"lv",44,43
+"337","Maine","Pan Atlantic Research","https://drive.google.com/file/d/1sI71fH_b6IKecmMtqlACiYc8ODAZ6R1P/view",2020-10-02,"10/6/2020",600,"lv",46.9,39.8
+"338","Massachusetts","Remington Research Group","https://projects.fivethirtyeight.com/polls/20201001_MA_Remington.pdf",2020-09-16,"9/17/2020",907,"lv",50,40
+"339","Michigan","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-11",2020-08-07,"8/9/2020",413,"lv",48,45
+"340","Michigan","Tarrance Group","https://www.politico.com/f/?id=00000173-fdf9-d721-a57f-fffb38060000",2020-08-10,"8/13/2020",602,"rv",48.7,44.1
+"341","Michigan","Hodas & Associates","https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/448/attachments/original/1599254878/Banner_August2020_08-17-2020.pdf",2020-08-11,"8/15/2020",600,"lv",53.48,38.98
+"342","Michigan","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/",2020-08-16,"8/18/2020",812,"lv",48,39
+"343","Michigan","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-12/",2020-08-21,"8/23/2020",809,"lv",50,45
+"344","Michigan","Trafalgar Group","https://drive.google.com/file/d/12_IApGhCQY27OukwWXGnk0MFgfPctmhQ/view",2020-08-14,"8/23/2020",1048,"lv",46.6,48.1
+"345","Michigan","Public Policy Polling","https://progressmichigan.org/wp-content/uploads/2020/09/MichiganResults_Sept.pdf",2020-08-28,"8/29/2020",897,"v",47,39
+"346","Michigan","Rasmussen Reports/Pulse Opinion Research","https://www.rasmussenreports.com/public_content/politics/elections/election_2020/michigan_senate_peters_d_48_james_r_40",2020-09-02,"9/3/2020",1000,"lv",47.56,40.12
+"347","Michigan","Tarrance Group","https://projects.fivethirtyeight.com/polls/20200904_MI.pdf",2020-09-01,"9/3/2020",569,"rv",47,46
+"348","Michigan","Glengariff Group","0	0	0	0	0	0",2020-09-01,"9/3/2020",600,"lv",43.7,40.6
+"349","Michigan","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/",2020-08-30,"9/3/2020",967,"lv",50,38
+"350","Michigan","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-13/",2020-09-04,"9/6/2020",876,"lv",50,46
+"351","Michigan","Benenson Strategy Group/GS Strategy Group","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-michigan-topline.doi.10.26419-2Fres.00401.006.pdf",2020-08-28,"9/8/2020",1600,"lv",45,41
+"352","Michigan","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",2020-09-12,"9/14/2020",930,"lv",51,35
+"353","Michigan","EPIC-MRA","https://www.woodtv.com/wp-content/uploads/sites/51/2020/09/September-Statewide-EPIC-MRA-poll-091820.pdf",2020-09-10,"9/15/2020",600,"lv",45,41
+"354","Michigan","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_michigan_state_poll_w1_09_22_2020.pdf",2020-09-11,"9/16/2020",637,"lv",49,43
+"355","Michigan","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",1451,"lv",47.6,39.7
+"356","Michigan","Garin-Hart-Yang Research Group","https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",2020-09-17,"9/19/2020",400,"lv",50,42
+"357","Michigan","Marketing Resource Group (MRG)","https://www.mrgmi.com/2020/09/22/ballot-test-biden-increases-lead-on-trump-but-late-deciding-voters-could-again-play-a-significant-role/",2020-09-14,"9/19/2020",600,"lv",42,40
+"358","Michigan","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-1/topline-reports/DFP_MI_Week1_Senate_toplines.pdf",2020-09-14,"9/19/2020",455,"lv",47,42
+"359","Michigan","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-14/",2020-09-18,"9/20/2020",568,"lv",50,44
+"360","Michigan","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",1376,"lv",47,40
+"361","Michigan","Baldwin Wallace University","https://www.bw.edu/Assets/stories/2020/fall/2020_glp_3%20final-1.pdf",2020-09-08,"9/22/2020",1001,"lv",45.6,41.4
+"362","Michigan","Marist College","http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_MI-Adults-Registered-Voters_NOS-and-Tables_202009251227.pdf",2020-09-19,"9/23/2020",1082,"rv",49,43
+"363","Michigan","Marist College","http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_MI-Likely-Voters_NOS-and-Tables_202009251227.pdf",2020-09-19,"9/23/2020",799,"lv",49,44
+"364","Michigan","Trafalgar Group","https://drive.google.com/file/d/1TMFBeZQNL0acengHKAZru4D78kvB38e2/view",2020-09-23,"9/25/2020",1047,"lv",47.2,47.3
+"365","Michigan","Trafalgar Group","https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/888/attachments/original/1601501137/MI_SENATE.pdf",2020-09-26,"9/28/2020",1042,"lv",48.1,46.7
+"366","Michigan","Public Policy Polling","https://progressmichigan.org/wp-content/uploads/2020/10/MichiganResults-October.pdf",2020-09-30,"10/1/2020",746,"v",48,41
+"367","Michigan","Glengariff Group","https://www.scribd.com/document/478937467/Michigan-Statewide-Post-Debate-Survey-2020",2020-09-30,"10/3/2020",600,"lv",44.9,39.5
+"368","Michigan","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-15/",2020-10-02,"10/4/2020",676,"lv",51,43
+"369","Michigan","Tarrance Group","https://www.politico.com/f/?id=00000175-00d4-d951-a77f-71dcc6d40000",2020-10-03,"10/5/2020",601,"rv",48,46
+"370","Michigan","Ipsos","https://www.reuters.com/article/idUSKBN26R3CW",2020-09-29,"10/6/2020",709,"lv",50,43
+"371","Michigan","Emerson College","https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races",2020-10-06,"10/7/2020",716,"lv",50.7,41.1
+"372","Michigan","Baldwin Wallace University","https://www.bw.edu/Assets/community-research-institute/10-2020-bw-gl-poll-4-final.pdf",2020-09-30,"10/8/2020",1134,"lv",48,42.1
+"373","Michigan","YouGov","https://drive.google.com/file/d/1ONr-7DegyuvciqdCL7TigWCIvJ1LbSbD/view",2020-10-06,"10/9/2020",1181,"lv",47,44
+"374","Michigan","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/miwi1020-crosstabs/b0a09cd1cd0048df/full.pdf",2020-10-06,"10/11/2020",614,"lv",43,42
+"375","Michigan","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",1710,"lv",49,40
+"376","Michigan","EPIC-MRA","https://www.woodtv.com/wp-content/uploads/sites/51/2020/10/2020-OCTOBER-FIRST-MEDIA-THURSDAY-FREQUENCY.pdf",2020-10-08,"10/12/2020",600,"lv",45,39
+"377","Michigan","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf",2020-10-07,"10/13/2020",620,"lv",52,44
+"378","Michigan","Harris Insights & Analytics","https://thehill.com/homenews/campaign/521415-biden-holds-9-point-lead-over-in-michigan-poll",2020-10-12,"10/15/2020",1289,"lv",50,43
+"379","Michigan","Trafalgar Group","https://www.thetrafalgargroup.org/news/mi-sen-1020/",2020-10-11,"10/15/2020",1018,"lv",46.6,48
+"380","Michigan","Mitchell Research & Communications","https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf",2020-10-18,"10/18/2020",900,"lv",49,43
+"381","Minnesota","Harper Polling","https://lewisformn.com/wp-content/uploads/2020/09/September-2-MN-Senate-Harper-Polling.pdf",2020-08-30,"9/1/2020",501,"lv",43,41
+"382","Minnesota","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/09/MinnesotaPoll9420.pdf",2020-09-03,"9/4/2020",877,"v",49,41
+"383","Minnesota","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=cc902191-9d67-498a-aa9c-d59233e2c85b",2020-09-04,"9/7/2020",553,"lv",46.6,35.7
+"384","Minnesota","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",2020-09-08,"9/10/2020",814,"lv",49,40
+"385","Minnesota","YouGov","https://drive.google.com/file/d/1HgXF5rfA2yev5hD6mi4sCVgTmof3XPJ4/view",2020-09-09,"9/11/2020",1031,"lv",47,40
+"386","Minnesota","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",2020-09-12,"9/17/2020",718,"lv",51,36
+"387","Minnesota","Mason-Dixon Polling & Strategy","https://www.startribune.com/minnesota-poll-us-senate-tina-smith-jason-lewis-supreme-court-scotus-trump-ruth-bader-ginsburg-rbg-merrick-garland-amy-coney-barrett/572533201/",2020-09-21,"9/23/2020",800,"lv",49,41
+"388","Minnesota","Suffolk University","https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A",2020-09-20,"9/24/2020",500,"lv",44.8,34.8
+"389","Minnesota","SurveyUSA","https://www.kaaltv.com/minnesota-news/surveyusa-poll/5888415/?cat=10151",2020-10-01,"10/6/2020",929,"lv",44,37
+"390","Mississippi","Garin-Hart-Yang Research Group","https://projects.fivethirtyeight.com/polls/20200813_MS.pdf",2020-07-30,"8/9/2020",600,"lv",42,47
+"391","Mississippi","The Tyson Group","https://projects.fivethirtyeight.com/polls/20200921_MS.pdf",2020-08-28,"8/30/2020",600,"lv",40,41
+"392","Montana","University of Montana","https://www.umt.edu/bigskypoll/Polls/summer2020/summer2020---aggregate.pdf",2020-06-17,"6/26/2020",517,"rv",47.3,43
+"393","Montana","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/07/MontanaPoll071220.pdf",2020-07-09,"7/10/2020",1224,"v",46,44
+"394","Montana","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_MT_banner_book_2020_07_ba6t8k.pdf",2020-07-11,"7/13/2020",873,"rv",47,49
+"395","Montana","Spry Strategies","https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Montana.pdf",2020-07-11,"7/16/2020",701,"lv",43.85,47.09
+"396","Montana","Emerson College","https://emersonpolling.reportablenews.com/pr/montana-2020-trump-holds-strong-as-biden-coalesces-support",2020-07-31,"8/2/2020",584,"lv",43.67,50.04
+"397","Montana","Fabrizio Ward/Hart Research Associates","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-senate-montana-annotated-questionnaire.doi.10.26419-2Fres.00401.022.pdf",2020-08-30,"9/5/2020",800,"lv",47,50
+"398","Montana","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf",2020-09-14,"9/16/2020",625,"lv",44,45
+"399","Montana","Montana State University Bozeman","https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/Senate_Overview_Final_11Oct2020.pdf",2020-09-14,"10/2/2020",1615,"lv",49,47
+"400","Montana","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-3/MT.pdf",2020-09-30,"10/5/2020",737,"lv",48,47
+"401","Montana","Emerson College","https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races",2020-10-05,"10/7/2020",500,"lv",42.7,51.8
+"402","Montana","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/10/MontanaOctober2020Poll.pdf",2020-10-09,"10/10/2020",798,"v",48,48
+"403","Montana","RMG Research","http://politicaliq.com/2020/10/19/montana-senate-race-daines-r-49-bullock-d-47/",2020-10-15,"10/18/2020",800,"lv",47,49
+"404","New Hampshire","University of Massachusetts Lowell","https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf",2020-09-17,"9/25/2020",657,"lv",56,37
+"405","New Hampshire","American Research Group","https://americanresearchgroup.com/nhpoll/senate20/",2020-09-25,"9/28/2020",600,"lv",56,40
+"406","New Hampshire","University of New Hampshire","https://scholars.unh.edu/cgi/viewcontent.cgi?article=1612&context=survey_center_polls",2020-09-24,"9/28/2020",972,"lv",54,41
+"407","New Hampshire","Emerson College","https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-biden-leads-trump-independents-splitting-their-ticket",2020-09-30,"10/1/2020",700,"lv",55.2,40.1
+"408","New Hampshire","Saint Anselm College","https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",2020-10-01,"10/4/2020",1147,"lv",53,39
+"409","New Hampshire","University of New Hampshire","https://scholars.unh.edu/survey_center_polls/620/",2020-10-09,"10/12/2020",899,"lv",55,40
+"410","New Hampshire","Suffolk University","https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/new-hampshire/2020/10_14_2020_tables_pdftxt.pdf?la=en&hash=A14911E2705329E0118A8C1B19ECE20CFECB35CA",2020-10-08,"10/12/2020",500,"lv",50.8,36.4
+"411","New Jersey","Emerson College","https://emersonpolling.reportablenews.com/pr/new-jersey-2020-biden-and-booker-with-significant-leads-in-the-garden-state",2020-09-04,"9/7/2020",500,"lv",51.55,27.54
+"412","New Jersey","Stockton University","https://stockton.edu/hughes-center/polling/documents/2020-1016-full-poll-results.pdf",2020-10-07,"10/13/2020",721,"lv",56.6,31.6
+"413","New Mexico","Public Policy Polling","https://nmpoliticalreport.com/2020/06/16/poll-biden-lujan-lead-in-new-mexico-after-primaries/",2020-06-12,"6/13/2020",740,"v",48,34
+"414","New Mexico","Research & Polling Inc.","https://www.abqjournal.com/1493963/journal-poll-lujan-leads-ronchetti-in-us-senate-race.html",2020-08-26,"9/2/2020",1123,"lv",49,40
+"415","New Mexico","Public Policy Polling","https://www.scribd.com/document/479132130/New-Mexico-PPP-poll",2020-09-30,"10/1/2020",886,"lv",51,41
+"416","North Carolina","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-8",2020-06-26,"6/28/2020",468,"lv",51,41
+"417","North Carolina","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/07/NorthCarolinaResults7920.pdf",2020-07-07,"7/8/2020",818,"v",47,39
+"418","North Carolina","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-9",2020-07-10,"7/12/2020",655,"lv",49,42
+"419","North Carolina","Cardinal Point Analytics (CardinalGPS)","https://cpapolling.com/wp-content/uploads/2020/07/NC_Poll_Results_2020-07-20.pdf",2020-07-13,"7/15/2020",547,"lv",47.3,44.2
+"420","North Carolina","Spry Strategies","https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP_North_Carolina.pdf",2020-07-12,"7/16/2020",700,"lv",40.38,39.77
+"421","North Carolina","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-19-to-24-july/",2020-07-19,"7/21/2020",919,"lv",47,36
+"422","North Carolina","Marist College","http://maristpoll.marist.edu/wp-content/uploads/2020/07/NBC-News_Marist-Poll-NC-NOS-and-Tables_202007231148.pdf",2020-07-14,"7/22/2020",882,"rv",50,41
+"423","North Carolina","Public Policy Polling","https://drive.google.com/file/d/1Aj_jOKH2jEB3fi3JdW0snX5rVIhN1nna/view",2020-07-22,"7/23/2020",939,"v",48,40
+"424","North Carolina","Cardinal Point Analytics (CardinalGPS)","https://cpapolling.com/wp-content/uploads/2020/07/NC_Poll_Results_2020-07-29.pdf",2020-07-22,"7/24/2020",735,"lv",42.9,43.1
+"425","North Carolina","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-10",2020-07-24,"7/26/2020",284,"lv",52,40
+"426","North Carolina","Morning Consult","https://morningconsult.com/2020/07/28/senate-presidential-polling-political-intelligence/",2020-07-17,"7/26/2020",1504,"lv",46,37
+"427","North Carolina","Public Policy Polling","https://giffords.org/wp-content/uploads/2020/08/NCResults1.pdf",2020-07-30,"7/31/2020",934,"v",48,44
+"428","North Carolina","YouGov","https://drive.google.com/file/d/1jDu_IMRdUTbdmA-VfpP-neMT3-lYw969/view",2020-07-28,"7/31/2020",1121,"lv",48,39
+"429","North Carolina","HIT Strategies","https://dfer.org/press/erna-poll-shows-biden-leading-in-south/",2020-07-23,"7/31/2020",400,"rv",48,32
+"430","North Carolina","Data for Progress","http://filesforprogress.org/datasets/2020/8/progressive-senate-project/DFP_North%20Carolina_8_20_xtabs.pdf",2020-07-24,"8/2/2020",1170,"lv",49,41
+"431","North Carolina","Change Research","https://www.changeresearch.com/post/states-of-play-battleground-wave-11",2020-08-07,"8/9/2020",491,"lv",48,43
+"432","North Carolina","Emerson College","https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions",2020-08-08,"8/10/2020",673,"lv",44.31,41.47
+"433","North Carolina","Harper Polling","https://www.nccivitas.org/polling/biden-cunningham-slim-leads/",2020-08-06,"8/10/2020",600,"lv",41,38
+"434","North Carolina","East Carolina University","https://surveyresearch-ecu.reportablenews.com/pr/latest-ecu-poll-shows-trump-and-biden-tied-in-north-carolina-democrats-leading-in-contests-for-governor-and-u-s-senate-kamala-harris-selection-draws-mixed-reaction",2020-08-12,"8/13/2020",1255,"rv",44.3,39.8
+"435","North Carolina","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-16-to-19-august/",2020-08-16,"8/17/2020",967,"lv",47,38
+"436","North Carolina","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-12/",2020-08-21,"8/23/2020",560,"lv",52,42
+"437","North Carolina","Morning Consult","https://morningconsult.com/2020/08/24/majority-makers-north-carolina-senate-cunningham-tillis/",2020-08-14,"8/23/2020",1541,"lv",47,39
+"438","North Carolina","East Carolina University","https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-trump-leads-biden-by-two-points-tillis-and-cunningham-tied-cooper-leads-forest-by-ten-points-other-statewide-races-competitive",2020-08-29,"8/30/2020",1101,"lv",44.1,43.6
+"439","North Carolina","Fox News/Beacon Research/Shaw & Co. Research","https://static.foxnews.com/foxnews.com/content/uploads/2020/09/North-Carolina.pdf",2020-08-29,"9/1/2020",804,"rv",47,40
+"440","North Carolina","Fox News/Beacon Research/Shaw & Co. Research","https://static.foxnews.com/foxnews.com/content/uploads/2020/09/North-Carolina.pdf",2020-08-29,"9/1/2020",722,"lv",48,42
+"441","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/",2020-08-29,"9/1/2020",401,"rv",46,45
+"442","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/",2020-08-29,"9/1/2020",401,"lv",47,45
+"443","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_090320.pdf/",2020-08-29,"9/1/2020",401,"lv",46,46
+"444","North Carolina","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-30-august-to-4-september/",2020-08-30,"9/3/2020",951,"lv",47,37
+"445","North Carolina","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-13/",2020-09-04,"9/6/2020",442,"lv",51,44
+"446","North Carolina","Rasmussen Reports/Pulse Opinion Research","https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_senate_cunningham_d_47_tillis_r_44",2020-09-07,"9/8/2020",1000,"lv",46.55,43.82
+"447","North Carolina","Benenson Strategy Group/GS Strategy Group","https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2020/2020-election-battleground-states-presidential-election-north-carolina-topline.doi.10.26419-2Fres.00401.008.pdf",2020-08-28,"9/8/2020",1600,"lv",42,39
+"448","North Carolina","Trafalgar Group","https://drive.google.com/file/d/1PIe4nvZYQ2UZ5e30NenDolEgi1QlYl8_/view",2020-09-09,"9/11/2020",1046,"lv",46.1,45.3
+"449","North Carolina","SurveyUSA","http://www.surveyusa.com/client/PollReport.aspx?g=a2f5b7cf-37da-40e4-9dad-921d655242b8",2020-09-10,"9/13/2020",596,"lv",47,40
+"450","North Carolina","SSRS","https://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf",2020-09-09,"9/13/2020",893,"rv",46,44
+"451","North Carolina","SSRS","https://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf",2020-09-09,"9/13/2020",787,"lv",47,46
+"452","North Carolina","Kaiser Family Foundation","https://www.kff.org/other/report/sun-belt-voices-project/",2020-08-29,"9/13/2020",1172,"rv",41,37
+"453","North Carolina","Suffolk University","https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_17_2020_final_marginals_pdftxt.pdf",2020-09-11,"9/14/2020",500,"lv",41.6,37.8
+"454","North Carolina","Redfield & Wilton Strategies","https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",2020-09-12,"9/15/2020",1092,"lv",49,38
+"455","North Carolina","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",2020-09-11,"9/16/2020",653,"lv",42,37
+"456","North Carolina","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_north_carolina_state_poll_w1_09_22_2020.pdf",2020-09-11,"9/16/2020",586,"lv",48,44
+"457","North Carolina","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",1664,"lv",45.56,39.11
+"458","North Carolina","Emerson College","https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-in-dead-heat",2020-09-16,"9/18/2020",717,"lv",48.93,42.97
+"459","North Carolina","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-14/",2020-09-18,"9/20/2020",579,"lv",48,43
+"460","North Carolina","Harper Polling","https://www.nccivitas.org/polling/cunninghams-lead-tillis-grows-election-nears/",2020-09-17,"9/20/2020",612,"lv",44,38
+"461","North Carolina","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",1604,"lv",47,38
+"462","North Carolina","Meredith College","https://www.meredith.edu/assets/images/content/Meredith_College_Poll_Report_September_2020.pdf",2020-09-18,"9/22/2020",705,"rv",43.1,41.8
+"463","North Carolina","YouGov","https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/",2020-09-22,"9/25/2020",1213,"lv",48,38
+"464","North Carolina","University of Massachusetts Lowell","https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf",2020-09-18,"9/25/2020",921,"lv",49,43
+"465","North Carolina","Garin-Hart-Yang Research Group","https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",2020-09-24,"9/27/2020",400,"lv",54,41
+"466","North Carolina","ALG Research","https://04acb8ce-8717-494a-8b55-56f4a82a107c.usrfiles.com/ugd/04acb8_121df148ec7b4053b105c08f0221a51a.pdf",2020-09-22,"9/28/2020",822,"v",53,41
+"467","North Carolina","Change Research","https://changeresearch.com/post/states-of-play-battleground-wave-15/",2020-10-02,"10/4/2020",396,"lv",50,46
+"468","North Carolina","East Carolina University","https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive",2020-10-02,"10/4/2020",1232,"lv",46.4,46.7
+"469","North Carolina","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf",2020-10-04,"10/5/2020",911,"v",48,42
+"470","North Carolina","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-3/NC.pdf",2020-09-30,"10/5/2020",1285,"lv",50,39
+"471","North Carolina","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline-reuters-north-carolina-state-poll-wave-2-100620_0.pdf",2020-09-29,"10/6/2020",601,"lv",47,42
+"472","North Carolina","SurveyUSA","https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/12/19332468/PollPrint-DMID1-5ohw9o5y4.pdf",2020-10-08,"10/11/2020",669,"lv",49,39
+"473","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",2020-10-08,"10/11/2020",500,"rv",48,44
+"474","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",2020-10-08,"10/11/2020",500,"lv",49,44
+"475","North Carolina","Monmouth University","https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",2020-10-08,"10/11/2020",500,"lv",48,47
+"476","North Carolina","RMG Research","http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/",2020-10-07,"10/11/2020",800,"lv",46,36
+"477","North Carolina","Susquehanna Polling & Research Inc.","https://amgreatness.com/2020/10/14/north-carolina-race-tightens-according-to-new-poll/",2020-10-07,"10/11/2020",500,"lv",46,44
+"478","North Carolina","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",1993,"lv",47,41
+"479","North Carolina","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/nc100920-crosstabs/3bf558d7ca17e9de/full.pdf",2020-10-09,"10/13/2020",627,"lv",41,37
+"480","North Carolina","Ipsos","https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf",2020-10-07,"10/13/2020",660,"lv",46,42
+"481","North Carolina","Emerson College","https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races",2020-10-13,"10/14/2020",721,"lv",44.6,43.5
+"482","North Carolina","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_NC_banner_book_2020_10_g32na7.pdf",2020-10-11,"10/14/2020",1211,"lv",51,45
+"483","North Carolina","ABC News/The Washington Post","https://www.washingtonpost.com/context/oct-12-17-2020-post-abc-poll-north-carolina/5bed58ac-8dc1-4018-857b-ab7aedeb3d2e/?tid=a_inl_manual&tidloc=8",2020-10-12,"10/17/2020",706,"rv",49,46
+"484","North Carolina","ABC News/The Washington Post","https://www.washingtonpost.com/context/oct-12-17-2020-post-abc-poll-north-carolina/5bed58ac-8dc1-4018-857b-ab7aedeb3d2e/?tid=a_inl_manual&tidloc=8",2020-10-12,"10/17/2020",646,"lv",49,47
+"485","Oklahoma","SoonerPoll.com","https://d3nbrdofkhtiou.cloudfront.net/kwtv/production/2020/September/10/news-9--news-on-6-general-election-poll.1599771666459.pdf",2020-09-02,"9/8/2020",486,"lv",32.8,57.3
+"486","Oklahoma","Amber Integrated","https://projects.fivethirtyeight.com/polls/20200924_OK.pdf",2020-09-17,"9/20/2020",500,"lv",30,46
+"487","Oregon","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_OR_banner_book_2020_09_7b4xvh.pdf",2020-09-26,"9/29/2020",944,"lv",55,35
+"488","South Carolina","Gravis Marketing","https://www.gravismarketing.com/south-carolina-poll-results-gravis-marketing-2020/",2020-07-17,"7/17/2020",604,"lv",41,48
+"489","South Carolina","brilliant corners Research & Strategies","https://jaimeharrison.com/wp-content/uploads/2020/07/Poll-721.pdf",2020-07-13,"7/19/2020",800,"lv",41,43
+"490","South Carolina","ALG Research","https://lindseymustgo.com/wp-content/uploads/2020/07/Baseline-SC-Statewide-July-2020-1.pdf",2020-07-15,"7/20/2020",591,"lv",45,49
+"491","South Carolina","Public Policy Polling","https://giffords.org/wp-content/uploads/2020/08/SouthCarolinaResults1.pdf",2020-07-30,"7/31/2020",1117,"v",44,47
+"492","South Carolina","Morning Consult","https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/",2020-07-24,"8/2/2020",741,"lv",43,44
+"493","South Carolina","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3670",2020-07-30,"8/3/2020",914,"rv",44,44
+"494","South Carolina","Quinnipiac University","https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",2020-09-10,"9/14/2020",969,"lv",48,48
+"495","South Carolina","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",782,"lv",45.59,44.9
+"496","South Carolina","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",764,"lv",45,46
+"497","South Carolina","brilliant corners Research & Strategies","https://jaimeharrison.com/wp-content/uploads/2020/09/Harrison-Sept-polling-memo-d2-1.pdf",2020-09-21,"9/24/2020",608,"lv",45,43
+"498","South Carolina","YouGov","https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/",2020-09-22,"9/25/2020",1080,"lv",44,45
+"499","South Carolina","Quinnipiac University","https://poll.qu.edu/south-carolina/release-detail?ReleaseID=3677",2020-09-23,"9/27/2020",1123,"lv",48,48
+"500","South Carolina","GBAO","https://www.dscc.org/news/new-dscc-poll-results-find-jaime-harrison-leading-vulnerable-senator-lindsey-graham-by-1-point-in-south-carolina-senate-race/",2020-09-24,"9/28/2020",800,"lv",48,47
+"501","South Carolina","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_SC_Senate_week2.pdf",2020-09-23,"9/28/2020",824,"lv",44,45
+"502","South Carolina","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-2/dfp_psp_SC_Senate_week2.pdf",2020-09-23,"9/28/2020",824,"lv",46,47
+"503","South Carolina","ALG Research","https://lindseymustgo.com/wp-content/uploads/2020/10/SC-PUBLIC-POLL-SUMMARY-ALG.pdf",2020-09-29,"10/5/2020",1011,"lv",46,46
+"504","South Carolina","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_sc_week_4_toplines.pdf",2020-10-08,"10/11/2020",801,"lv",47,46
+"505","South Carolina","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",903,"lv",42,48
+"506","South Carolina","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",2020-10-09,"10/14/2020",605,"lv",40,46
+"507","South Carolina","brilliant corners Research & Strategies","https://jaimeharrison.com/wp-content/uploads/2020/10/10.16-Poll.pdf",2020-10-11,"10/16/2020",525,"lv",47,45
+"508","Texas","Quinnipiac University","https://poll.qu.edu/texas/release-detail?ReleaseID=3667",2020-07-16,"7/20/2020",880,"rv",38,47
+"509","Texas","Spry Strategies","https://americanprinciplesproject.org/wp-content/uploads/2020/07/APP.Texas_.pdf",2020-07-16,"7/20/2020",750,"lv",37.27,47.44
+"510","Texas","Global Strategy Group/Latino Decisions","https://www.politico.com/f/?id=00000173-b621-d8c4-a7f7-f76173a60000",2020-07-25,"7/29/2020",700,"lv",42,43
+"511","Texas","Morning Consult","https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/",2020-07-24,"8/2/2020",2576,"lv",38,44
+"512","Texas","YouGov","https://www.txhpf.org/wp-content/uploads/2020/08/THPFFinalAug17.pdf",2020-08-04,"8/13/2020",846,"rv",37.4,44.4
+"513","Texas","Data for Progress","https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf",2020-08-20,"8/25/2020",2295,"lv",40,46
+"514","Texas","The Tyson Group","https://projects.fivethirtyeight.com/polls/20200921_TX.pdf",2020-08-20,"8/25/2020",906,"lv",42,44
+"515","Texas","Public Policy Polling","https://giffords.org/wp-content/uploads/2020/09/TexasResults1.pdf",2020-09-01,"9/2/2020",743,"v",40,44
+"516","Texas","University of Texas at Tyler","https://www.scribd.com/document/475037655/Aug28-Sept2-DMN-UTTyler-2020-Poll-Codebook-4",2020-08-28,"9/2/2020",1176,"rv",24,34
+"517","Texas","University of Texas at Tyler","https://www.scribd.com/document/475037655/Aug28-Sept2-DMN-UTTyler-2020-Poll-Codebook-4",2020-08-28,"9/2/2020",901,"lv",28,39
+"518","Texas","Morning Consult","https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",2020-09-08,"9/17/2020",2555,"lv",38.45,44.95
+"519","Texas","YouGov","https://drive.google.com/file/d/1ZsMPYa9d2L2vg4YYk-DFcwlXosTMmMYP/view",2020-09-15,"9/18/2020",1129,"lv",41,46
+"520","Texas","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",2616,"lv",39,45
+"521","Texas","Quinnipiac University","https://poll.qu.edu/ohio/release-detail?ReleaseID=3675",2020-09-17,"9/21/2020",1078,"lv",42,50
+"522","Texas","Siena College/The New York Times Upshot","https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf",2020-09-16,"9/22/2020",653,"lv",37,43
+"523","Texas","Data for Progress","https://filesforprogress.org/memos/student-debt-project-electoral.pdf",2020-09-15,"9/22/2020",726,"lv",38,40
+"524","Texas","University of Massachusetts Lowell","https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf",2020-09-18,"9/25/2020",882,"lv",40,50
+"525","Texas","YouGov","https://static.texastribune.org/media/files/922524cf3ab155eb04b70075f96948ab/uttt-2020-10-day1topline.pdf?_ga=2.167788513.1578857801.1602243186-1274457702.1602243185",2020-09-25,"10/4/2020",908,"lv",42,50
+"526","Texas","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-3/TX.pdf",2020-09-30,"10/5/2020",1949,"lv",42,45
+"527","Texas","Rasmussen Reports/Pulse Opinion Research","https://crosswindpr.com/texas-statewide-poll-shows-trump-leading-biden-7-among-likely-voters/",2020-10-05,"10/6/2020",1000,"lv",39,48
+"528","Texas","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_TX_banner_book_2020_10_cm5k3s.pdf",2020-10-03,"10/6/2020",895,"lv",46,47
+"529","Texas","Morning Consult","https://morningconsult.com/form/2020-u-s-election-tracker/",2020-10-02,"10/11/2020",3455,"lv",38,47
+"530","Texas","Public Policy Polling","https://www.publicpolicypolling.com/wp-content/uploads/2020/10/TexasSenatePollOctober2020-1.pdf",2020-10-14,"10/15/2020",712,"v",46,49
+"531","Texas","Data for Progress","https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/tx.pdf",2020-10-15,"10/18/2020",933,"lv",41,44
+"532","Virginia","Roanoke College","https://www.roanoke.edu/about/news/rc_poll_politics_aug_2020",2020-08-09,"8/22/2020",566,"lv",55,34
+"533","Virginia","Virginia Commonwealth University","https://oppo.vcu.edu/media/oppo/September2020Release1final.pdf",2020-08-28,"9/7/2020",693,"lv",55,38
+"534","Virginia","Christopher Newport University","https://cnu.edu/wasoncenter/surveys/2020-09-24/",2020-09-09,"9/21/2020",796,"lv",52,39
+"535","Virginia","Cygnal","https://gadeforvirginia.com/new-poll-shows-gade-down-by-single-digits/",2020-09-22,"9/25/2020",600,"lv",50.7,41.3
+"536","Virginia","Cygnal","https://martinsvillebulletin.com/news/local/govt-and-politics/election-2020-republican-senate-candidate-daniel-gade-criticizes-mark-warner-and-the-democratic-party-during/article_62a1a626-6a8a-51cb-9c2f-562effcfa3db.html",2020-10-09,"10/11/2020",607,"lv",51.3,44.2
+"537","Virginia","Reconnect Research/Roanoke College","https://www.roanoke.edu/about/news/reconnect_research_roanoke_college_va_poll",2020-09-30,"10/12/2020",602,"lv",55,38
+"538","Virginia","Civiqs","https://civiqs.com/documents/Civiqs_DailyKos_VA_banner_book_2020_10_48z9k2.pdf",2020-10-11,"10/14/2020",1231,"lv",54,43
+"539","West Virginia","Research America Inc.","https://www.documentcloud.org/documents/7228688-WV-Poll-10-13-Release.html",2020-10-01,"10/6/2020",450,"lv",33,53
