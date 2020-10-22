@@ -11,11 +11,9 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(datasets)
 library(rvest)
 library(dplyr)
 library(tibble)
-library(stringr)
 ```
 
 ```{r}
