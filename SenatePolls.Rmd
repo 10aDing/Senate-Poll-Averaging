@@ -19,6 +19,7 @@ library(stringr)
 ```
 
 ```{r}
+#Get table of dates of Senate Primaries
 polls <- as_tibble(read.csv("senate_polls.csv"))
 polls %>% filter(candidate_party %in% c("REP", "DEM")) -> polls
 primary_site <- read_html("https://ballotpedia.org/United_States_Senate_elections,_2020")
@@ -39,6 +40,7 @@ primary_table[-1, 1:4] %>%
   rename(state = State) -> 
   primary_table
 
+#Remove polls that were taken before the primary
 polls %>% 
   right_join(primary_table, polls, by = "state") %>%
   mutate(
@@ -65,7 +67,7 @@ left_join(rep_polls, dem_polls, by = c("poll_id", "question_id", "state", "sampl
   select(state, Dem_Pct, Rep_Pct, sample_size, pollster, poll_id, question_id, url) ->
   final_polls
 
-#Georgia has a weird election
+#Georgia has a weird Senate election, might remove later
 ```
 
 # Datasets
@@ -76,4 +78,3 @@ print(dem_polls)
 print(final_polls)
 write.csv(final_polls, "revised_polls.csv")
 ```
-
