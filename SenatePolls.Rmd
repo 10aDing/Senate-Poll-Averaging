@@ -1,0 +1,79 @@
+---
+title: "SenatePolls"
+author: "Colin Wu"
+date: "10/20/2020"
+output: 
+  html_document:
+    toc: yes
+    toc_float: yes
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(datasets)
+library(rvest)
+library(dplyr)
+library(tibble)
+library(stringr)
+```
+
+```{r}
+polls <- as_tibble(read.csv("senate_polls.csv"))
+polls %>% filter(candidate_party %in% c("REP", "DEM")) -> polls
+primary_site <- read_html("https://ballotpedia.org/United_States_Senate_elections,_2020")
+
+primary_site %>%
+  html_nodes("table") %>%
+  .[[20]] %>% html_table(fill=TRUE) -> 
+primary_table
+
+colnames(primary_table) <- make.names(primary_table[1,])
+primary_table[-1, 1:4] %>%
+  mutate(
+    Primary.date = as.Date(Primary.date, format='%m/%d/%Y'),
+    Primary.runoff.date = as.Date(Primary.runoff.date, format='%m/%d/%Y'),
+    Primary.date = ifelse(is.na(Primary.runoff.date), Primary.date, Primary.runoff.date),
+    Primary.date = as.Date(Primary.date, origin = "1970-01-01")
+    ) %>% select(State, Primary.date) %>% 
+  rename(state = State) -> 
+  primary_table
+
+polls %>% 
+  right_join(primary_table, polls, by = "state") %>%
+  mutate(
+    start_date = as.Date(start_date, format='%m/%d/%Y'),
+  ) %>%
+  filter(Primary.date < start_date) ->
+polls
+
+write.csv(polls, "after_primary_polls.csv")
+
+#Add DEM and REP candidate percentages for the same poll on the same row
+polls %>% 
+  filter(candidate_party == "REP") %>% 
+  select(pct, answer, state, poll_id, sample_size, question_id, url, candidate_party, pollster, methodology, population, population_full, notes, start_date, created_at) %>%
+  rename(Rep_Pct = pct, Rep_Candidate = answer) ->
+rep_polls
+
+polls %>%
+  filter(candidate_party == "DEM") %>%
+  rename(Dem_Pct = pct, Dem_Candidate = answer) ->
+dem_polls
+
+left_join(rep_polls, dem_polls, by = c("poll_id", "question_id", "state", "sample_size", "url", "pollster", "methodology", "population","population_full", "notes", "start_date", "created_at")) %>%
+  select(state, Dem_Pct, Rep_Pct, sample_size, pollster, poll_id, question_id, url) ->
+  final_polls
+
+#Georgia has a weird election
+```
+
+# Datasets
+```{r}
+print(primary_table)
+print(rep_polls)
+print(dem_polls)
+print(final_polls)
+write.csv(final_polls, "revised_polls.csv")
+```
+
