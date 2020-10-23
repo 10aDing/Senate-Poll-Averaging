@@ -19,7 +19,7 @@ library(tibble)
 ```{r}
 #Get table of dates of Senate Primaries
 polls <- as_tibble(read.csv("senate_polls.csv"))
-polls %>% filter(candidate_party %in% c("REP", "DEM")) -> polls
+polls %>% filter(candidate_party %in% c("REP", "DEM"), stage == "general") -> polls
 primary_site <- read_html("https://ballotpedia.org/United_States_Senate_elections,_2020")
 
 primary_site %>%
