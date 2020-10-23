@@ -76,5 +76,5 @@ print(primary_table)
 print(rep_polls)
 print(dem_polls)
 print(final_polls)
-write.csv(final_polls, "revised_polls.csv")
+write.csv(final_polls, "revised_polls.csv", row.names = FALSE)
 ```
