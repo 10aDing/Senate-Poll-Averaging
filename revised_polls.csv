@@ -1,4 +1,4 @@
-"","state","pollster","url","start_date","end_date","sample_size","population_full","Dem_Pct","Rep_Pct"
+"","State","Poll","Source","Start Date","End Date","Sample Size","Sample Type","Dem_Pct","Rep_Pct"
 "1","Alabama","Morning Consult","https://morningconsult.com/2020/08/04/senate-presidential-polling-alabama-kentucky-sc-texas/",2020-07-24,"8/2/2020",609,"lv",35,52
 "2","Alabama","Morning Consult","https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",2020-09-11,"9/20/2020",658,"lv",34,52
 "3","Alabama","Auburn University at Montgomery","https://www.aum.edu/wp-content/uploads/2020/10/aum_poll_10042020_alabama1.pdf",2020-09-30,"10/3/2020",1072,"rv",42.1,54
