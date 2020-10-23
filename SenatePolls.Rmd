@@ -63,6 +63,7 @@ dem_polls
 
 left_join(dem_polls, rep_polls, by = c("poll_id", "question_id", "state", "sample_size", "url", "pollster", "methodology", "population","population_full", "notes", "start_date", "created_at")) %>%
   select(state, pollster, url, start_date, end_date, sample_size, population_full, Dem_Pct, Rep_Pct) %>%
+  mutate(start_date = format(start_date, "%m/%d/%Y")) %>%
   rename(c(State = state, Poll = pollster, Source = url, "Start Date" = start_date, "End Date" = end_date, "Sample Size"= sample_size, "Sample Type" = population_full)) ->
   final_polls
 
